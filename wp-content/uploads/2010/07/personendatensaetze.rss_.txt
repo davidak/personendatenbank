@@ -1,0 +1,3655 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rss version="2.0"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+>
+
+<channel>
+<title>Personendatenbank</title>
+<link></link>
+<description>100 Datens&#xC3;&#xA4;tze.</description>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+
+<item>
+<title><![CDATA[Ahmed Kafka]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 9.1.1945 (<?php echo alter(9,1,1945); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> single
+<strong>Kinder:</strong> 2
+
+Neehusenstr.  72
+63925 Laudenbach
+Deutschland
+
+<strong>E-Mail Adresse:</strong> <a href="mailto:ahmed45@hehe.com">ahmed45@hehe.com</a>
+
+<strong>Politische Einstellung:</strong> Kommunist
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> asexuell
+
+<strong>Figur:</strong> dürr
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> ja
+
+<strong>Beruf:</strong> Fachunteroffizier
+<strong>Einkommen:</strong> ca. 9200€/Monat
+
+<strong>Interessen:</strong> [tag]Zirkus[/tag], [tag]Fantasy[/tag]
+<strong>Musik:</strong> [tag]Space Rock[/tag], [tag]Trip Hop[/tag]
+<strong>Lieblingsfilme:</strong> Sonnenallee, Shrek der Dritte]]></description>
+<category>single</category>
+<category>asexuell</category>
+<category>Mann</category>
+<category>Nichtraucher</category>
+<category>Alkohol</category>
+<category>Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Jens Papke]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 17.8.1976 (<?php echo alter(17,8,1976); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> single
+<strong>Kinder:</strong> 1
+
+Daimlerstr. 190
+63860 Rothenbuch
+Deutschland
+
+<strong>E-Mail Adresse:</strong> <a href="mailto:jens-aus-rothenbuch@the-pentagon.com">jens-aus-rothenbuch@the-pentagon.com</a>
+
+<strong>Politische Einstellung:</strong> grün
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> normal
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Psychologe
+<strong>Einkommen:</strong> ca. 600€/Monat
+
+<strong>Interessen:</strong> [tag]Handarbeiten[/tag], [tag]Pferde[/tag], [tag]Tagebuch schreiben[/tag]
+<strong>Musik:</strong> [tag]Game Soundtrack[/tag], [tag]Hardcore[/tag], [tag]Reggae[/tag]
+<strong>Lieblingsfilme:</strong> Contergan, Meine Frau, ihre Schwiegereltern und ich]]></description>
+<category>single</category>
+<category>hetero</category>
+<category>Mann</category>
+<category>Nichtraucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Peer Press]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 18.5.1981 (<?php echo alter(18,5,1981); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> verlobt
+
+Uellendahler Str. 65
+54552 Dockweiler
+Deutschland
+
+<strong>Telefonnummer:</strong> 06595 7506417
+<strong>E-Mail Adresse:</strong> <a href="mailto:peer81@theheadoffice.com">peer81@theheadoffice.com</a>
+
+<strong>Politische Einstellung:</strong> grün
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> schwul bzw. lesbisch
+
+<strong>Figur:</strong> fett
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Aegyptologe
+<strong>Einkommen:</strong> ca. 400€/Monat
+
+<strong>Interessen:</strong> [tag]Hörspiele[/tag], [tag]Bowling[/tag]
+<strong>Musik:</strong> [tag]Punk[/tag], [tag]Chanson[/tag]
+<strong>Lieblingsfilme:</strong> Malina , Iron Man, Die unendliche Geschichte]]></description>
+<category>verlobt</category>
+<category>schwul bzw. lesbisch</category>
+<category>Mann</category>
+<category>Nichtraucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Sybille Goerges]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 28.9.1926 (<?php echo alter(28,9,1926); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Kinder:</strong> 1
+
+Klinikweg 13
+26639 Wiesmoor
+Deutschland
+
+<strong>Telefonnummer:</strong> 04948 9275851
+<strong>E-Mail Adresse:</strong> <a href="mailto:sybille26@in1999.com">sybille26@in1999.com</a>
+
+<strong>Politische Einstellung:</strong> links
+<strong>Religion:</strong> Jude
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> fett
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Schuster
+<strong>Einkommen:</strong> ca. 6700€/Monat
+
+<strong>Interessen:</strong> [tag]Bowling[/tag], [tag]Malerei[/tag]
+<strong>Musik:</strong> [tag]Electronic[/tag], [tag]Downtempo[/tag], [tag]Soul[/tag]
+<strong>Lieblingsfilme:</strong> Vier Minuten, Star Wars: Episode II – Angriff der Klonkrieger, Ocean’s Eleven]]></description>
+<category></category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Raucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Evelyn Lappahn]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 15.2.1975 (<?php echo alter(15,2,1975); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> single
+<strong>Kinder:</strong> 3
+
+Am Jungborn 3
+25712 Brickeln
+Deutschland
+
+<strong>Telefonnummer:</strong> 04948 3951679
+<strong>E-Mail Adresse:</strong> <a href="mailto:@team-rocket.net">@team-rocket.net</a>
+
+<strong>Politische Einstellung:</strong> Kommunist
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> normal
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> ja
+
+<strong>Beruf:</strong> Karosseriemechaniker
+<strong>Einkommen:</strong> ca. 4000€/Monat
+
+<strong>Interessen:</strong> [tag]Schwertkampf[/tag], [tag]Surfen[/tag]
+<strong>Musik:</strong> [tag]Rap[/tag], [tag]Space[/tag], [tag]Space Rock[/tag]
+<strong>Lieblingsfilme:</strong> Berlin is in Germany, Avatar – Aufbruch nach Pandora, Avatar – Aufbruch nach Pandora]]></description>
+<category>single</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Raucher</category>
+<category>Kein Alkohol</category>
+<category>Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Karla Hillmann]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 22.7.2000 (<?php echo alter(22,7,2000); ?>)
+<strong>Geschlecht:</strong> weiblich
+
+Wiesenstr.  66
+17111 Nossendorf
+Deutschland
+
+<strong>Telefonnummer:</strong> 039995 7597433
+<strong>E-Mail Adresse:</strong> <a href="mailto:00@ilovesuebarker.co.uk">00@ilovesuebarker.co.uk</a>
+
+
+<strong>Religion:</strong> Christ
+
+<strong>Figur:</strong> normal
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Schüler
+
+<strong>Interessen:</strong> [tag]Puppen sammeln[/tag], [tag]Open Source[/tag], [tag]Open Source[/tag]
+<strong>Musik:</strong> [tag]New Wave[/tag], [tag]Hiphop[/tag]
+<strong>Lieblingsfilme:</strong> Sophie Scholl – Die letzten Tage, Das Leben ist eine Baustelle, Die letzten Jahre der Kindheit]]></description>
+<category></category>
+<category></category>
+<category>Frau</category>
+<category>Nichtraucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Mara Homborg]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 11.3.1995 (<?php echo alter(11,3,1995); ?>)
+<strong>Geschlecht:</strong> weiblich
+
+Moosfelder Ring 81
+86576 Schiltberg
+Deutschland
+
+<strong>Telefonnummer:</strong> 039995 9970619
+<strong>E-Mail Adresse:</strong> <a href="mailto:mara.@farang.net">mara.@farang.net</a>
+
+
+<strong>Religion:</strong> Christ
+
+<strong>Figur:</strong> mollig
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Schüler
+
+<strong>Interessen:</strong> [tag]Achterbahnen[/tag], [tag]Rollenspiel[/tag]
+<strong>Musik:</strong> [tag]Experimental[/tag], [tag]Folk Metal[/tag], [tag]Dance[/tag]
+<strong>Lieblingsfilme:</strong> Netto, King Kong, Die Kinder sind tot]]></description>
+<category></category>
+<category></category>
+<category>Frau</category>
+<category>Raucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Artur Ehrentraut]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 26.7.1947 (<?php echo alter(26,7,1947); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> single
+
+Karolinenstr. 159
+39624 Badel
+Deutschland
+
+<strong>Telefonnummer:</strong> 039009 6767637
+<strong>E-Mail Adresse:</strong> <a href="mailto:47@bolt.com">47@bolt.com</a>
+
+<strong>Politische Einstellung:</strong> grün
+<strong>Religion:</strong> Budhist
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> schlank
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Servierer
+<strong>Einkommen:</strong> ca. 3100€/Monat
+
+<strong>Interessen:</strong> [tag]Amateurfunk[/tag], [tag]Videos machen[/tag]
+<strong>Musik:</strong> [tag]Britpop[/tag], [tag]Comedy[/tag]
+<strong>Lieblingsfilme:</strong> Justiz, Zum Teufel mit der Penne]]></description>
+<category>single</category>
+<category>hetero</category>
+<category>Mann</category>
+<category>Raucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Joel Hülsmann]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 2.1.1931 (<?php echo alter(2,1,1931); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> verlobt
+
+Albert-Braun-Str. 74
+39599 Nahrstedt
+Deutschland
+
+<strong>Telefonnummer:</strong> 039009 5916895
+<strong>E-Mail Adresse:</strong> <a href="mailto:joel31@1I4.com">joel31@1I4.com</a>
+
+<strong>Politische Einstellung:</strong> rechts
+<strong>Religion:</strong> Budhist
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> normal
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Hotelangestellter
+<strong>Einkommen:</strong> ca. 3600€/Monat
+
+<strong>Interessen:</strong> [tag]Rollenspiel[/tag], [tag]Videos schneiden[/tag]
+<strong>Musik:</strong> [tag]Epic[/tag], [tag]Jazz[/tag]
+<strong>Lieblingsfilme:</strong> Kirschblüten, Alles auf Zucker!]]></description>
+<category>verlobt</category>
+<category>hetero</category>
+<category>Mann</category>
+<category>Nichtraucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Fatma Mill]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 18.8.1968 (<?php echo alter(18,8,1968); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> verheiratet
+<strong>Kinder:</strong> 8
+
+Mozartstr.  164
+35689 Dillenburg
+Deutschland
+
+<strong>Telefonnummer:</strong> 02771 8027602
+<strong>E-Mail Adresse:</strong> <a href="mailto:fatma68@space-man.com">fatma68@space-man.com</a>
+
+<strong>Politische Einstellung:</strong> unpolitisch
+<strong>Religion:</strong> keine
+<strong>Sexuelle Orientierung:</strong> bisexuell
+
+<strong>Figur:</strong> fett
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Schiffsreiniger
+<strong>Einkommen:</strong> ca. 7800€/Monat
+
+<strong>Interessen:</strong> [tag]Skart[/tag], [tag]saufen[/tag]
+<strong>Musik:</strong> [tag]Punk[/tag], [tag]Hard Rock[/tag], [tag]Vocal[/tag]
+<strong>Lieblingsfilme:</strong> Shoppen, The Sixth Sense]]></description>
+<category>verheiratet</category>
+<category>bisexuell</category>
+<category>Frau</category>
+<category>Raucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Anneliese Bittner]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 26.8.1955 (<?php echo alter(26,8,1955); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> vergeben
+<strong>Kinder:</strong> 4
+
+Sanddornstr.  118
+18292 Krakow am See
+Deutschland
+
+<strong>Telefonnummer:</strong> 02771 6451649
+<strong>E-Mail Adresse:</strong> <a href="mailto:anneliese55@rs9.net">anneliese55@rs9.net</a>
+
+<strong>Politische Einstellung:</strong> rechts
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> asexuell
+
+<strong>Figur:</strong> fett
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Kriminalbeamter
+<strong>Einkommen:</strong> ca. 9700€/Monat
+
+<strong>Interessen:</strong> [tag]Basteln[/tag], [tag]Kneipe[/tag], [tag]Heimwerken[/tag]
+<strong>Musik:</strong> [tag]Doom Metal[/tag], [tag]Hard Rock[/tag], [tag]Post Grunge[/tag]
+<strong>Lieblingsfilme:</strong> Krieg der Welten, Netto]]></description>
+<category>vergeben</category>
+<category>asexuell</category>
+<category>Frau</category>
+<category>Raucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Laurin Kromer]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 6.3.1956 (<?php echo alter(6,3,1956); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> vergeben
+<strong>Kinder:</strong> 1
+
+Am Brixener Hof 37
+04924 Bad Liebenwerda
+Deutschland
+
+<strong>Telefonnummer:</strong> 035341 8054601
+<strong>E-Mail Adresse:</strong> <a href="mailto:56@iobox.fi">56@iobox.fi</a>
+
+<strong>Politische Einstellung:</strong> unpolitisch
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> normal
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Bauzeichner
+<strong>Einkommen:</strong> ca. 2100€/Monat
+
+<strong>Interessen:</strong> [tag]Darts[/tag], [tag]Schwertkampf[/tag], [tag]Science Fiction[/tag]
+<strong>Musik:</strong> [tag]Reggae[/tag], [tag]Rock country[/tag], [tag]Pop[/tag]
+<strong>Lieblingsfilme:</strong> Hitlerjunge Salomon, Sehnsucht]]></description>
+<category>vergeben</category>
+<category>hetero</category>
+<category>Mann</category>
+<category>Raucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Alexej Tiemann]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 18.1.1955 (<?php echo alter(18,1,1955); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> verheiratet
+<strong>Kinder:</strong> 1
+
+Albstr. 126
+99947 Bad Langensalza
+Deutschland
+
+<strong>Telefonnummer:</strong> 03603 7115568
+<strong>E-Mail Adresse:</strong> <a href="mailto:55@schoolemail.com">55@schoolemail.com</a>
+
+<strong>Politische Einstellung:</strong> liberal
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> bisexuell
+
+<strong>Figur:</strong> fett
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Fachinformatiker
+<strong>Einkommen:</strong> ca. 9900€/Monat
+
+<strong>Interessen:</strong> [tag]Wolkenkratzer-Klettern[/tag], [tag]Zoo[/tag]
+<strong>Musik:</strong> [tag]Game Soundtrack[/tag], [tag]Classic[/tag], [tag]Club[/tag]
+<strong>Lieblingsfilme:</strong> Der Baader Meinhof Komplex, Star Wars: Episode II – Angriff der Klonkrieger]]></description>
+<category>verheiratet</category>
+<category>bisexuell</category>
+<category>Mann</category>
+<category>Nichtraucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Erhard Soeder]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 2.10.1920 (<?php echo alter(2,10,1920); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Kinder:</strong> 1
+
+Johanneskirchplatz  9
+19357 Boberow
+Deutschland
+
+<strong>Telefonnummer:</strong> 03603 5556272
+<strong>E-Mail Adresse:</strong> <a href="mailto:20@quickwebmail.com">20@quickwebmail.com</a>
+
+<strong>Politische Einstellung:</strong> konservativ
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> schlank
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> ja
+
+<strong>Beruf:</strong> Demograf
+<strong>Einkommen:</strong> ca. 9900€/Monat
+
+<strong>Interessen:</strong> [tag]Soziale Netzwerke[/tag], [tag]Surfen[/tag]
+<strong>Musik:</strong> [tag]Dance[/tag], [tag]British Rock[/tag], [tag]Psychedelic[/tag]
+<strong>Lieblingsfilme:</strong> Charlie und die Schokoladenfabrik, Das Leben ist eine Baustelle]]></description>
+<category></category>
+<category>hetero</category>
+<category>Mann</category>
+<category>Raucher</category>
+<category>Alkohol</category>
+<category>Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Hilke Meindl]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 13.3.1975 (<?php echo alter(13,3,1975); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> vergeben
+<strong>Kinder:</strong> 2
+
+Saydaer Str.  94
+66386 Sankt Ingbert
+Deutschland
+
+<strong>Telefonnummer:</strong> 03603 5905711
+<strong>E-Mail Adresse:</strong> <a href="mailto:75@inabadway.com">75@inabadway.com</a>
+
+<strong>Politische Einstellung:</strong> rechts
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> fett
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Erzieher
+<strong>Einkommen:</strong> ca. 3400€/Monat
+
+<strong>Interessen:</strong> [tag]Billard[/tag], [tag]Skart[/tag]
+<strong>Musik:</strong> [tag]Folk Rock[/tag], [tag]Psychedelic Trance[/tag], [tag]Power Metal[/tag]
+<strong>Lieblingsfilme:</strong> Indiana Jones und der letzte Kreuzzug, Sherlock Holmes, 23 – Nichts ist so wie es scheint]]></description>
+<category>vergeben</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Nichtraucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Wolfgang Haufe]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 7.8.1980 (<?php echo alter(7,8,1980); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> verlobt
+<strong>Kinder:</strong> 2
+
+Gilbertstr. 138
+24232 Dobersdorf
+Deutschland
+
+<strong>Telefonnummer:</strong> 03603 5880797
+<strong>E-Mail Adresse:</strong> <a href="mailto:wolfgang-aus-dobersdorf@bikemechanics.com">wolfgang-aus-dobersdorf@bikemechanics.com</a>
+
+<strong>Politische Einstellung:</strong> rechts
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> mollig
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Fliesenleger
+<strong>Einkommen:</strong> ca. 1000€/Monat
+
+<strong>Interessen:</strong> [tag]Philosophie[/tag], [tag]LARP[/tag]
+<strong>Musik:</strong> [tag]Gothic[/tag], [tag]Dance[/tag]
+<strong>Lieblingsfilme:</strong> Balance, Das Verlangen]]></description>
+<category>verlobt</category>
+<category>hetero</category>
+<category>Mann</category>
+<category>Raucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Jamie Meusel]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 15.3.1944 (<?php echo alter(15,3,1944); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> vergeben
+<strong>Kinder:</strong> 4
+
+Ottstr. 50
+38554 Weyhausen
+Deutschland
+
+<strong>Telefonnummer:</strong> 03603 1822759
+<strong>E-Mail Adresse:</strong> <a href="mailto:jamie44@thewizzard.com">jamie44@thewizzard.com</a>
+
+<strong>Politische Einstellung:</strong> grün
+<strong>Religion:</strong> keine
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> mollig
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Lokführer
+<strong>Einkommen:</strong> ca. 1200€/Monat
+
+<strong>Interessen:</strong> [tag]Selbstverteidigung[/tag], [tag]Poker[/tag], [tag]Tennis[/tag]
+<strong>Musik:</strong> [tag]Country[/tag], [tag]Groove Metal[/tag], [tag]Space[/tag]
+<strong>Lieblingsfilme:</strong> Rhythm Is It!, Jagdhunde, Pretty Woman]]></description>
+<category>vergeben</category>
+<category>hetero</category>
+<category>Mann</category>
+<category>Raucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Gustav Lehnen]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 22.4.1925 (<?php echo alter(22,4,1925); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Kinder:</strong> 4
+
+Buchenstr.  120
+79879 Wutach
+Deutschland
+
+<strong>Telefonnummer:</strong> 07709 8345375
+<strong>E-Mail Adresse:</strong> <a href="mailto:gustav.@go.ru">gustav.@go.ru</a>
+
+<strong>Politische Einstellung:</strong> rechts
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> dürr
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Stahlbauer
+<strong>Einkommen:</strong> ca. 600€/Monat
+
+<strong>Interessen:</strong> [tag]schlafen[/tag], [tag]Würfelspiele[/tag], [tag]Geotrekking[/tag]
+<strong>Musik:</strong> [tag]Nu Jazz[/tag], [tag]Neoclassic[/tag], [tag]Britpop[/tag]
+<strong>Lieblingsfilme:</strong> Der Name der Rose, Die unendliche Geschichte, Die Simpsons – Der Film]]></description>
+<category></category>
+<category>hetero</category>
+<category>Mann</category>
+<category>Raucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Bülent Kolo]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 7.3.1948 (<?php echo alter(7,3,1948); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> vergeben
+<strong>Kinder:</strong> 1
+
+Rietmacherweg 187
+73569 Eschach
+Deutschland
+
+<strong>Telefonnummer:</strong> 07709 6354956
+<strong>E-Mail Adresse:</strong> <a href="mailto:48@january.co.uk">48@january.co.uk</a>
+
+<strong>Politische Einstellung:</strong> konservativ
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> fett
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Elektromonteur
+<strong>Einkommen:</strong> ca. 8100€/Monat
+
+<strong>Interessen:</strong> [tag]Puppen sammeln[/tag], [tag]Fahrzeugtuning[/tag], [tag]Angeln[/tag]
+<strong>Musik:</strong> [tag]Soul[/tag], [tag]Jazz[/tag]
+<strong>Lieblingsfilme:</strong> Der freie Wille, Der freie Wille]]></description>
+<category>vergeben</category>
+<category>hetero</category>
+<category>Mann</category>
+<category>Nichtraucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Len Tischer]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 6.5.1948 (<?php echo alter(6,5,1948); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> single
+
+Karl-Wilhelm-Str. 52
+25524 Breitenburg
+Deutschland
+
+<strong>Telefonnummer:</strong> 07709 4960271
+<strong>E-Mail Adresse:</strong> <a href="mailto:len.@isellcars.com">len.@isellcars.com</a>
+
+<strong>Politische Einstellung:</strong> links
+<strong>Religion:</strong> Moslem
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> mollig
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Krankenpfleger
+<strong>Einkommen:</strong> ca. 700€/Monat
+
+<strong>Interessen:</strong> [tag]Puppen sammeln[/tag], [tag]Schwertkampf[/tag]
+<strong>Musik:</strong> [tag]Space Rock[/tag], [tag]Screamo[/tag]
+<strong>Lieblingsfilme:</strong> Sonnenallee, Das Wunder von Bern]]></description>
+<category>single</category>
+<category>hetero</category>
+<category>Mann</category>
+<category>Raucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Angelique Titz]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 7.7.1980 (<?php echo alter(7,7,1980); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> verlobt
+<strong>Kinder:</strong> 3
+
+FROEBELSTRASSE 147
+29386 Dedelstorf
+Deutschland
+
+<strong>Telefonnummer:</strong> 07709 4944982
+<strong>E-Mail Adresse:</strong> <a href="mailto:angelique-aus-dedelstorf@netscape.net">angelique-aus-dedelstorf@netscape.net</a>
+
+<strong>Politische Einstellung:</strong> rechts
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> fett
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Assistenzarzt
+<strong>Einkommen:</strong> ca. 4600€/Monat
+
+<strong>Interessen:</strong> [tag]Hörspiele[/tag], [tag]Fotografie[/tag], [tag]Poker[/tag]
+<strong>Musik:</strong> [tag]New Wave[/tag], [tag]Metal[/tag]
+<strong>Lieblingsfilme:</strong> Werner – Das muß kesseln!!!, Heaven, Die Passion Christi]]></description>
+<category>verlobt</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Nichtraucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Babette Tölle]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 25.7.1999 (<?php echo alter(25,7,1999); ?>)
+<strong>Geschlecht:</strong> weiblich
+
+Stadtbachstr. 87
+08529 Plauen
+Deutschland
+
+<strong>Telefonnummer:</strong> 036621 1183625
+<strong>E-Mail Adresse:</strong> <a href="mailto:99@impatient.co.uk">99@impatient.co.uk</a>
+
+
+<strong>Religion:</strong> Christ
+
+<strong>Figur:</strong> mollig
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Schüler
+
+<strong>Interessen:</strong> [tag]malen[/tag], [tag]Tanzen[/tag], [tag]Urban Exploration[/tag]
+<strong>Musik:</strong> [tag]Deep House[/tag], [tag]Punk[/tag]
+<strong>Lieblingsfilme:</strong> Das Imperium schlägt zurück, Sommersturm]]></description>
+<category></category>
+<category></category>
+<category>Frau</category>
+<category>Nichtraucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Kiara Weißmann]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 6.5.1965 (<?php echo alter(6,5,1965); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> verlobt
+<strong>Kinder:</strong> 2
+
+Pestalozzistr.  148
+25597 Moordorf
+Deutschland
+
+<strong>Telefonnummer:</strong> 036621 3452833
+<strong>E-Mail Adresse:</strong> <a href="mailto:kiara.@yahoo.fr">kiara.@yahoo.fr</a>
+
+<strong>Politische Einstellung:</strong> konservativ
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> dürr
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Dachdecker
+<strong>Einkommen:</strong> ca. 6600€/Monat
+
+<strong>Interessen:</strong> [tag]Fernsehen[/tag], [tag]Feuerschlucken[/tag]
+<strong>Musik:</strong> [tag]Hiphop[/tag], [tag]Post-Hardcore[/tag], [tag]Grunge[/tag]
+<strong>Lieblingsfilme:</strong> Bernard und Bianca – Die Mäusepolizei, Rhythm Is It!, Ice Age 3: Die Dinosaurier sind los]]></description>
+<category>verlobt</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Nichtraucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Jolanta Black]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 1.4.1975 (<?php echo alter(1,4,1975); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> verlobt
+
+Alte Frankfurter Str. 185
+34270 Schauenburg
+Deutschland
+
+<strong>Telefonnummer:</strong> 05601 6615919
+<strong>E-Mail Adresse:</strong> <a href="mailto:jolanta-aus-schauenburg@marsattack.com">jolanta-aus-schauenburg@marsattack.com</a>
+
+<strong>Politische Einstellung:</strong> grün
+<strong>Religion:</strong> Budhist
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> mollig
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> ja
+
+<strong>Beruf:</strong> Glasapparatebauer
+<strong>Einkommen:</strong> ca. 4900€/Monat
+
+<strong>Interessen:</strong> [tag]backen[/tag], [tag]malen[/tag]
+<strong>Musik:</strong> [tag]Bluegrass[/tag], [tag]Heavy Metal[/tag]
+<strong>Lieblingsfilme:</strong> Die letzten Jahre der Kindheit, Elementarteilchen]]></description>
+<category>verlobt</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Nichtraucher</category>
+<category>Kein Alkohol</category>
+<category>Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Hakan Lucht]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 12.8.1949 (<?php echo alter(12,8,1949); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> verlobt
+<strong>Kinder:</strong> 1
+
+Lackerbauerstr. 135
+55234 Nack
+Deutschland
+
+<strong>Telefonnummer:</strong> 05601 8021964
+<strong>E-Mail Adresse:</strong> <a href="mailto:@ivillage.com">@ivillage.com</a>
+
+<strong>Politische Einstellung:</strong> links
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> mollig
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Schriftsetzermeister
+<strong>Einkommen:</strong> ca. 7500€/Monat
+
+<strong>Interessen:</strong> [tag]Surfen[/tag], [tag]Musik hören[/tag], [tag]Kekse backen[/tag]
+<strong>Musik:</strong> [tag]Pop Rock[/tag], [tag]New Age[/tag]
+<strong>Lieblingsfilme:</strong> Mein Name ist Nobody, Frei nach Plan]]></description>
+<category>verlobt</category>
+<category>hetero</category>
+<category>Mann</category>
+<category>Nichtraucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Burkhardt Koegel]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 23.8.1995 (<?php echo alter(23,8,1995); ?>)
+<strong>Geschlecht:</strong> männlich
+
+Rehhofstr.  54
+82377 Penzberg
+Deutschland
+
+<strong>Telefonnummer:</strong> 08856 3937435
+<strong>E-Mail Adresse:</strong> <a href="mailto:@escaflowne.cc">@escaflowne.cc</a>
+
+
+<strong>Religion:</strong> Christ
+
+<strong>Figur:</strong> fett
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Schüler
+
+<strong>Interessen:</strong> [tag]Hörspiele[/tag], [tag]Musik hören[/tag], [tag]Computer[/tag]
+<strong>Musik:</strong> [tag]Nu Jazz[/tag], [tag]Rock[/tag], [tag]Electro[/tag]
+<strong>Lieblingsfilme:</strong> Der König der Löwen, The Dark Knight]]></description>
+<category></category>
+<category></category>
+<category>Mann</category>
+<category>Nichtraucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Neele Nägele]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 27.3.1963 (<?php echo alter(27,3,1963); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> verlobt
+
+Homburger Str.  51
+72582 Grabenstetten
+Deutschland
+
+<strong>Telefonnummer:</strong> 08856 9290842
+<strong>E-Mail Adresse:</strong> <a href="mailto:neele.@chickmail.com">neele.@chickmail.com</a>
+
+<strong>Politische Einstellung:</strong> rechts
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> schwul bzw. lesbisch
+
+<strong>Figur:</strong> schlank
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> ja
+
+<strong>Beruf:</strong> Karosseriemechaniker
+<strong>Einkommen:</strong> ca. 8800€/Monat
+
+<strong>Interessen:</strong> [tag]Fernsehen[/tag], [tag]Skart[/tag], [tag]Kettensägen[/tag]
+<strong>Musik:</strong> [tag]Classic[/tag], [tag]Indie Pop[/tag]
+<strong>Lieblingsfilme:</strong> Anatomie, Mission: Impossible, Out of Rosenheim]]></description>
+<category>verlobt</category>
+<category>schwul bzw. lesbisch</category>
+<category>Frau</category>
+<category>Nichtraucher</category>
+<category>Alkohol</category>
+<category>Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Carmen Juergens]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 28.8.1941 (<?php echo alter(28,8,1941); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> single
+<strong>Kinder:</strong> 1
+
+Vogesenstr. 10
+99628 Olbersleben
+Deutschland
+
+<strong>Telefonnummer:</strong> 08856 9038943
+<strong>E-Mail Adresse:</strong> <a href="mailto:carmen.@iname.com">carmen.@iname.com</a>
+
+<strong>Politische Einstellung:</strong> liberal
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> bisexuell
+
+<strong>Figur:</strong> fett
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Systeminformatiker
+<strong>Einkommen:</strong> ca. 5400€/Monat
+
+<strong>Interessen:</strong> [tag]Sammeln[/tag], [tag]Gedichte schreiben[/tag], [tag]gammeln[/tag]
+<strong>Musik:</strong> [tag]Space[/tag], [tag]Blues[/tag], [tag]Gothic Metal[/tag]
+<strong>Lieblingsfilme:</strong> Nachts im Museum, Armageddon – Das jüngste Gericht]]></description>
+<category>single</category>
+<category>bisexuell</category>
+<category>Frau</category>
+<category>Nichtraucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Gina Bröcker]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 21.4.1932 (<?php echo alter(21,4,1932); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> verlobt
+<strong>Kinder:</strong> 2
+
+Pippelsburg 26
+07613 Silbitz
+Deutschland
+
+<strong>Telefonnummer:</strong> 08856 5973953
+<strong>E-Mail Adresse:</strong> <a href="mailto:gina.@bimamail.com">gina.@bimamail.com</a>
+
+<strong>Politische Einstellung:</strong> konservativ
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> fett
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Fahrer
+<strong>Einkommen:</strong> ca. 1500€/Monat
+
+<strong>Interessen:</strong> [tag]Bowling[/tag], [tag]Amateurastronomie[/tag]
+<strong>Musik:</strong> [tag]Psychedelic[/tag], [tag]Space[/tag], [tag]Fusion[/tag]
+<strong>Lieblingsfilme:</strong> Zum Teufel mit der Penne, Madagascar, WALL·E – Der Letzte räumt die Erde auf]]></description>
+<category>verlobt</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Raucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Noemi Hinrichs]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 3.5.1929 (<?php echo alter(3,5,1929); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Kinder:</strong> 1
+
+Am Wildwechsel  67
+55595 Braunweiler
+Deutschland
+
+<strong>Telefonnummer:</strong> 08856 2942861
+<strong>E-Mail Adresse:</strong> <a href="mailto:29@zmail.ru">29@zmail.ru</a>
+
+<strong>Politische Einstellung:</strong> rechts
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> dürr
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> ja
+
+<strong>Beruf:</strong> Kundendienstberater
+<strong>Einkommen:</strong> ca. 1000€/Monat
+
+<strong>Interessen:</strong> [tag]Fahrzeugtuning[/tag], [tag]gammeln[/tag]
+<strong>Musik:</strong> [tag]Noise[/tag], [tag]Classic[/tag]
+<strong>Lieblingsfilme:</strong> Sophie Scholl – Die letzten Tage, Kurz und schmerzlos, Papillon]]></description>
+<category></category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Raucher</category>
+<category>Alkohol</category>
+<category>Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Rafael Geist]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 13.8.1933 (<?php echo alter(13,8,1933); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> single
+<strong>Kinder:</strong> 3
+
+Bismarckstr.  125
+94542 Haarbach
+Deutschland
+
+<strong>Telefonnummer:</strong> 08535 8303515
+<strong>E-Mail Adresse:</strong> <a href="mailto:rafael.@zagazig.cc">rafael.@zagazig.cc</a>
+
+<strong>Politische Einstellung:</strong> konservativ
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> schlank
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Vermessungsingenieur
+<strong>Einkommen:</strong> ca. 5300€/Monat
+
+<strong>Interessen:</strong> [tag]Karate[/tag], [tag]Fotografie[/tag]
+<strong>Musik:</strong> [tag]Opera[/tag], [tag]Deep House[/tag]
+<strong>Lieblingsfilme:</strong> Bittere Ernte, Netto, Spider-Man]]></description>
+<category>single</category>
+<category>hetero</category>
+<category>Mann</category>
+<category>Raucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Tim Zimmerer]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 4.10.1959 (<?php echo alter(4,10,1959); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> vergeben
+<strong>Kinder:</strong> 3
+
+Hohenzollernstr.  98
+36287 Breitenbach am Herzberg
+Deutschland
+
+<strong>Telefonnummer:</strong> 08535 5921855
+<strong>E-Mail Adresse:</strong> <a href="mailto:tim.@lycos.com">tim.@lycos.com</a>
+
+<strong>Politische Einstellung:</strong> unpolitisch
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> schlank
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Fischer
+<strong>Einkommen:</strong> ca. 4800€/Monat
+
+<strong>Interessen:</strong> [tag]Festivals[/tag], [tag]Spielkonsolen[/tag]
+<strong>Musik:</strong> [tag]Electronic[/tag], [tag]Hardcore[/tag]
+<strong>Lieblingsfilme:</strong> Die Stille nach dem Schuss, Hitlerjunge Salomon, Nichts als die Wahrheit ]]></description>
+<category>vergeben</category>
+<category>hetero</category>
+<category>Mann</category>
+<category>Raucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Wera Rüdiger]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 10.2.1964 (<?php echo alter(10,2,1964); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> single
+<strong>Kinder:</strong> 2
+
+Harpener Feld 172
+15859 Storkow
+Deutschland
+
+<strong>Telefonnummer:</strong> 033678 1280208
+<strong>E-Mail Adresse:</strong> <a href="mailto:wera.@yyhmail.com">wera.@yyhmail.com</a>
+
+<strong>Politische Einstellung:</strong> rechts
+<strong>Religion:</strong> Moslem
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> dürr
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Mediengestalter
+<strong>Einkommen:</strong> ca. 2400€/Monat
+
+<strong>Interessen:</strong> [tag]Filme sehen[/tag], [tag]schlafen[/tag]
+<strong>Musik:</strong> [tag]Power Metal[/tag], [tag]Postrock[/tag], [tag]Electro[/tag]
+<strong>Lieblingsfilme:</strong> Bella Martha, Mamma Mia!]]></description>
+<category>single</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Nichtraucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Jannika Lauer]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 1.5.1978 (<?php echo alter(1,5,1978); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> single
+<strong>Kinder:</strong> 1
+
+Paul-Schneider-Weg  176
+94250 Achslach
+Deutschland
+
+<strong>Telefonnummer:</strong> 033678 6081660
+<strong>E-Mail Adresse:</strong> <a href="mailto:jannika.@mail-central.com">jannika.@mail-central.com</a>
+
+<strong>Politische Einstellung:</strong> Kommunist
+<strong>Religion:</strong> keine
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> mollig
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> ja
+
+<strong>Beruf:</strong> Brauer
+<strong>Einkommen:</strong> ca. 4100€/Monat
+
+<strong>Interessen:</strong> [tag]Urban Exploration[/tag], [tag]Tagebuch schreiben[/tag], [tag]Gitarre spielen[/tag]
+<strong>Musik:</strong> [tag]Fusion[/tag], [tag]New Age[/tag]
+<strong>Lieblingsfilme:</strong> Hitlerjunge Salomon, Matrix Reloaded]]></description>
+<category>single</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Nichtraucher</category>
+<category>Kein Alkohol</category>
+<category>Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Kamilla Helfrich]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 10.7.1987 (<?php echo alter(10,7,1987); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> verlobt
+<strong>Kinder:</strong> 4
+
+Rubensweg 128
+63857 Waldaschaff
+Deutschland
+
+<strong>Telefonnummer:</strong> 033678 2940470
+<strong>E-Mail Adresse:</strong> <a href="mailto:kamilla.@mynetaddress.com">kamilla.@mynetaddress.com</a>
+
+<strong>Politische Einstellung:</strong> Kommunist
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> normal
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Nautiker
+<strong>Einkommen:</strong> ca. 1300€/Monat
+
+<strong>Interessen:</strong> [tag]Briefmarken sammeln[/tag], [tag]Urban Exploration[/tag]
+<strong>Musik:</strong> [tag]Hard Rock[/tag], [tag]Funk[/tag]
+<strong>Lieblingsfilme:</strong> 2012, Christiane F. – Wir Kinder vom Bahnhof Zoo]]></description>
+<category>verlobt</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Raucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Julian Sorg]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 22.1.1964 (<?php echo alter(22,1,1964); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> verlobt
+<strong>Kinder:</strong> 1
+
+Schoenaich-Carolath-Str. 64
+25821 Struckum
+Deutschland
+
+<strong>Telefonnummer:</strong> 033678 4134367
+<strong>E-Mail Adresse:</strong> <a href="mailto:julian-aus-struckum@chirk.com">julian-aus-struckum@chirk.com</a>
+
+<strong>Politische Einstellung:</strong> liberal
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> fett
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> ja
+
+<strong>Beruf:</strong> Umweltberater
+<strong>Einkommen:</strong> ca. 5200€/Monat
+
+<strong>Interessen:</strong> [tag]Lockpicking[/tag], [tag]Stofftiere[/tag], [tag]Amateurastronomie[/tag]
+<strong>Musik:</strong> [tag]Comedy[/tag], [tag]Space Rock[/tag]
+<strong>Lieblingsfilme:</strong> Jagdhunde, Russian Ark]]></description>
+<category>verlobt</category>
+<category>hetero</category>
+<category>Mann</category>
+<category>Raucher</category>
+<category>Kein Alkohol</category>
+<category>Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Bert Kropp]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 21.5.1921 (<?php echo alter(21,5,1921); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Kinder:</strong> 3
+
+Hansastr. 111
+57627 Hachenburg
+Deutschland
+
+<strong>Telefonnummer:</strong> 02662 9683305
+<strong>E-Mail Adresse:</strong> <a href="mailto:bert.@comicsfan.net">bert.@comicsfan.net</a>
+
+<strong>Politische Einstellung:</strong> Kommunist
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> normal
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> ja
+
+<strong>Beruf:</strong> Seiler
+<strong>Einkommen:</strong> ca. 8000€/Monat
+
+<strong>Interessen:</strong> [tag]Basteln[/tag], [tag]backen[/tag], [tag]Party[/tag]
+<strong>Musik:</strong> [tag]Death Metal[/tag], [tag]Rock country[/tag]
+<strong>Lieblingsfilme:</strong> Sehnsucht, Pirates of the Caribbean – Am Ende der Welt, Ocean’s Eleven]]></description>
+<category></category>
+<category>hetero</category>
+<category>Mann</category>
+<category>Nichtraucher</category>
+<category>Alkohol</category>
+<category>Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Imke Elbert]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 27.2.1936 (<?php echo alter(27,2,1936); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> verlobt
+<strong>Kinder:</strong> 2
+
+Schmittgasse  103
+25548 Auufer
+Deutschland
+
+<strong>Telefonnummer:</strong> 02662 5003904
+<strong>E-Mail Adresse:</strong> <a href="mailto:36@hotmail.com">36@hotmail.com</a>
+
+<strong>Politische Einstellung:</strong> Kommunist
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> normal
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Gärtner
+<strong>Einkommen:</strong> ca. 4100€/Monat
+
+<strong>Interessen:</strong> [tag]Schwertkampf[/tag], [tag]Soziale Netzwerke[/tag]
+<strong>Musik:</strong> [tag]Drum and Bass[/tag], [tag]Pop Rock[/tag]
+<strong>Lieblingsfilme:</strong> Iron Man 2, Das Gelübde, Mission: Impossible]]></description>
+<category>verlobt</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Nichtraucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Jean Rauscher]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 1.8.1929 (<?php echo alter(1,8,1929); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Kinder:</strong> 3
+
+Grundrain Immenhof  163
+67376 Harthausen
+Deutschland
+
+<strong>Telefonnummer:</strong> 02662 2080312
+<strong>E-Mail Adresse:</strong> <a href="mailto:29@fastermail.com">29@fastermail.com</a>
+
+<strong>Politische Einstellung:</strong> unpolitisch
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> schlank
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Bodenleger
+<strong>Einkommen:</strong> ca. 4300€/Monat
+
+<strong>Interessen:</strong> [tag]Tennis[/tag], [tag]Kartenspiele[/tag], [tag]Gastronomie[/tag]
+<strong>Musik:</strong> [tag]Rock country[/tag], [tag]Piano[/tag], [tag]Game Soundtrack[/tag]
+<strong>Lieblingsfilme:</strong> Kevin – Allein zu Haus, Requiem]]></description>
+<category></category>
+<category>hetero</category>
+<category>Mann</category>
+<category>Nichtraucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Mohamed Vedder]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 11.3.1988 (<?php echo alter(11,3,1988); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> verlobt
+
+Stadelgasse 71
+25524 Breitenburg
+Deutschland
+
+<strong>Telefonnummer:</strong> 02662 2554824
+<strong>E-Mail Adresse:</strong> <a href="mailto:88@workmail.com">88@workmail.com</a>
+
+<strong>Politische Einstellung:</strong> grün
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> mollig
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> ja
+
+<strong>Beruf:</strong> Logotherapeut
+<strong>Einkommen:</strong> ca. 4100€/Monat
+
+<strong>Interessen:</strong> [tag]Tanzen[/tag], [tag]Angeln[/tag], [tag]Billard[/tag]
+<strong>Musik:</strong> [tag]Doom Metal[/tag], [tag]Indie Rock[/tag]
+<strong>Lieblingsfilme:</strong> Pappa ante Portas, Der Herr der Ringe: Die Gefährten, Good Bye, Lenin!]]></description>
+<category>verlobt</category>
+<category>hetero</category>
+<category>Mann</category>
+<category>Raucher</category>
+<category>Alkohol</category>
+<category>Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Vievienne Rehfeld]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 23.6.1984 (<?php echo alter(23,6,1984); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> single
+<strong>Kinder:</strong> 1
+
+Bockenfelder Str. 23
+99752 Kehmstedt
+Deutschland
+
+<strong>Telefonnummer:</strong> 02662 3632359
+<strong>E-Mail Adresse:</strong> <a href="mailto:@luckoftheirish.co.uk">@luckoftheirish.co.uk</a>
+
+<strong>Politische Einstellung:</strong> liberal
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> normal
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Maurer
+<strong>Einkommen:</strong> ca. 4900€/Monat
+
+<strong>Interessen:</strong> [tag]Literatur[/tag], [tag]singen[/tag]
+<strong>Musik:</strong> [tag]British Rock[/tag], [tag]Disco[/tag]
+<strong>Lieblingsfilme:</strong> Schussangst, Netto, Der Himmel über Berlin]]></description>
+<category>single</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Nichtraucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Jolanta Burkert]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 2.1.1932 (<?php echo alter(2,1,1932); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> single
+<strong>Kinder:</strong> 1
+
+Wilsingweg  115
+66887 Niederalben
+Deutschland
+
+<strong>Telefonnummer:</strong> 02662 6883248
+<strong>E-Mail Adresse:</strong> <a href="mailto:jolanta.@wistex.com">jolanta.@wistex.com</a>
+
+<strong>Politische Einstellung:</strong> liberal
+<strong>Religion:</strong> Jude
+<strong>Sexuelle Orientierung:</strong> schwul bzw. lesbisch
+
+<strong>Figur:</strong> normal
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Segelmacher
+<strong>Einkommen:</strong> ca. 700€/Monat
+
+<strong>Interessen:</strong> [tag]Theater[/tag], [tag]Zauberkunst[/tag], [tag]Internet[/tag]
+<strong>Musik:</strong> [tag]Latin[/tag], [tag]Chanson[/tag], [tag]Numetal[/tag]
+<strong>Lieblingsfilme:</strong> Contergan, Wer früher stirbt ist länger tot]]></description>
+<category>single</category>
+<category>schwul bzw. lesbisch</category>
+<category>Frau</category>
+<category>Raucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Gaby Pfeifer]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 28.1.1975 (<?php echo alter(28,1,1975); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> vergeben
+
+Haddings Berg 189
+71711 Murr
+Deutschland
+
+<strong>Telefonnummer:</strong> 07193 2503963
+<strong>E-Mail Adresse:</strong> <a href="mailto:@ahmegami.net">@ahmegami.net</a>
+
+<strong>Politische Einstellung:</strong> links
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> dürr
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Klavierbauer
+<strong>Einkommen:</strong> ca. 2800€/Monat
+
+<strong>Interessen:</strong> [tag]telefonieren[/tag], [tag]Internet[/tag], [tag]Geotrekking[/tag]
+<strong>Musik:</strong> [tag]Jazz[/tag], [tag]Arabic[/tag], [tag]Fusion[/tag]
+<strong>Lieblingsfilme:</strong> Shoppen, Matrix Reloaded, Indiana Jones und der letzte Kreuzzug]]></description>
+<category>vergeben</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Raucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Emmily Anton]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 25.10.1976 (<?php echo alter(25,10,1976); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> verlobt
+
+Alte Salzdahlumer Str.  149
+35282 Rauschenberg
+Deutschland
+
+<strong>Telefonnummer:</strong> 06425 2129145
+<strong>E-Mail Adresse:</strong> <a href="mailto:76@dragonslave.com">76@dragonslave.com</a>
+
+<strong>Politische Einstellung:</strong> unpolitisch
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> mollig
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Glasapparatebauer
+<strong>Einkommen:</strong> ca. 4400€/Monat
+
+<strong>Interessen:</strong> [tag]Bananenanbau[/tag], [tag]Zirkus[/tag], [tag]Youtube[/tag]
+<strong>Musik:</strong> [tag]Progressive[/tag], [tag]Trance[/tag]
+<strong>Lieblingsfilme:</strong> Requiem, Ice Age 3: Die Dinosaurier sind los]]></description>
+<category>verlobt</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Nichtraucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Marlon Roeske]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 17.2.2001 (<?php echo alter(17,2,2001); ?>)
+<strong>Geschlecht:</strong> männlich
+
+Ittlinger Str.  8
+94140 Ering
+Deutschland
+
+<strong>Telefonnummer:</strong> 08573 4172015
+<strong>E-Mail Adresse:</strong> <a href="mailto:@canada.com">@canada.com</a>
+
+
+<strong>Religion:</strong> Christ
+
+<strong>Figur:</strong> normal
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Schüler
+
+<strong>Interessen:</strong> [tag]Party[/tag], [tag]Gastronomie[/tag], [tag]Amateurastronomie[/tag]
+<strong>Musik:</strong> [tag]Ambient[/tag], [tag]Punk[/tag], [tag]Rock n Roll[/tag]
+<strong>Lieblingsfilme:</strong> Madagascar 2, Männer]]></description>
+<category></category>
+<category></category>
+<category>Mann</category>
+<category>Nichtraucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Ronny Doehring]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 9.2.1952 (<?php echo alter(9,2,1952); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> single
+<strong>Kinder:</strong> 1
+
+Klausenerplatz  75
+15732 Waltersdorf
+Deutschland
+
+<strong>Telefonnummer:</strong> 08573 5269038
+<strong>E-Mail Adresse:</strong> <a href="mailto:ronny.@lordoftheapes.co.uk">ronny.@lordoftheapes.co.uk</a>
+
+<strong>Politische Einstellung:</strong> unpolitisch
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> fett
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Schornsteinfeger
+<strong>Einkommen:</strong> ca. 9500€/Monat
+
+<strong>Interessen:</strong> [tag]Schwertkampf[/tag], [tag]Sonnenstudio[/tag], [tag]Achterbahnen[/tag]
+<strong>Musik:</strong> [tag]Drum and Bass[/tag], [tag]Metalcore[/tag], [tag]Indie Pop[/tag]
+<strong>Lieblingsfilme:</strong> Findet Nemo, Pirates of the Caribbean – Fluch der Karibik 2]]></description>
+<category>single</category>
+<category>hetero</category>
+<category>Mann</category>
+<category>Raucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Sylke Bartovic]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 11.8.1977 (<?php echo alter(11,8,1977); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> verlobt
+<strong>Kinder:</strong> 3
+
+Schreyweg 4
+82418 Seehausen am Staffelsee
+Deutschland
+
+<strong>Telefonnummer:</strong> 08573 6621554
+<strong>E-Mail Adresse:</strong> <a href="mailto:sylke-aus-seehausen-am-staffelsee@blademail.net">sylke-aus-seehausen-am-staffelsee@blademail.net</a>
+
+<strong>Politische Einstellung:</strong> grün
+<strong>Religion:</strong> Moslem
+<strong>Sexuelle Orientierung:</strong> bisexuell
+
+<strong>Figur:</strong> mollig
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Pfarrer
+<strong>Einkommen:</strong> ca. 3200€/Monat
+
+<strong>Interessen:</strong> [tag]Pferde[/tag], [tag]Raumfahrt[/tag], [tag]Kekse backen[/tag]
+<strong>Musik:</strong> [tag]Arabic[/tag], [tag]Melodic Death[/tag]
+<strong>Lieblingsfilme:</strong> Quiero Ser, The Sixth Sense]]></description>
+<category>verlobt</category>
+<category>bisexuell</category>
+<category>Frau</category>
+<category>Nichtraucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Friedhelm Christiansen]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 21.5.1921 (<?php echo alter(21,5,1921); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Kinder:</strong> 1
+
+Schleemer Ring  135
+74074 Heilbronn
+Deutschland
+
+<strong>Telefonnummer:</strong> 07131 1194331
+<strong>E-Mail Adresse:</strong> <a href="mailto:friedhelm-aus-heilbronn@long-last.co.uk">friedhelm-aus-heilbronn@long-last.co.uk</a>
+
+<strong>Politische Einstellung:</strong> grün
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> dürr
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Schuhmacher
+<strong>Einkommen:</strong> ca. 400€/Monat
+
+<strong>Interessen:</strong> [tag]Party[/tag], [tag]Sonnenstudio[/tag], [tag]Billard[/tag]
+<strong>Musik:</strong> [tag]Hardcore[/tag], [tag]Chanson[/tag]
+<strong>Lieblingsfilme:</strong> Auf der anderen Seite, Hangover, Auf der anderen Seite]]></description>
+<category></category>
+<category>hetero</category>
+<category>Mann</category>
+<category>Raucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Mohammed Amelung]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 14.5.1989 (<?php echo alter(14,5,1989); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> single
+<strong>Kinder:</strong> 2
+
+Leuschnerstr. 61
+01561 Zabeltitz
+Deutschland
+
+<strong>Telefonnummer:</strong> 07131 8083277
+<strong>E-Mail Adresse:</strong> <a href="mailto:89@dunlopdriver.com">89@dunlopdriver.com</a>
+
+<strong>Politische Einstellung:</strong> rechts
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> normal
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Metallgießer
+<strong>Einkommen:</strong> ca. 4600€/Monat
+
+<strong>Interessen:</strong> [tag]Angeln[/tag], [tag]Disco[/tag], [tag]Tischtennis[/tag]
+<strong>Musik:</strong> [tag]Drum and Bass[/tag], [tag]Deathcore[/tag]
+<strong>Lieblingsfilme:</strong> Oswalt Kolle: Das Wunder der Liebe, Halbe Treppe, Nachts im Museum]]></description>
+<category>single</category>
+<category>hetero</category>
+<category>Mann</category>
+<category>Nichtraucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Wilma Engelfried]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 17.7.1969 (<?php echo alter(17,7,1969); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> single
+<strong>Kinder:</strong> 4
+
+Birkenstieg 58
+54646 Niehl
+Deutschland
+
+<strong>Telefonnummer:</strong> 07131 2042300
+<strong>E-Mail Adresse:</strong> <a href="mailto:69@apmail.com">69@apmail.com</a>
+
+<strong>Politische Einstellung:</strong> konservativ
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> schlank
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Umweltberater
+<strong>Einkommen:</strong> ca. 3700€/Monat
+
+<strong>Interessen:</strong> [tag]Billard[/tag], [tag]Poker[/tag]
+<strong>Musik:</strong> [tag]Comedy[/tag], [tag]Rock[/tag], [tag]Drum and Bass[/tag]
+<strong>Lieblingsfilme:</strong> Die Chroniken von Narnia: Der König von Narnia, Meine Frau, ihre Schwiegereltern und ich]]></description>
+<category>single</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Nichtraucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Yannik Engelhard]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 10.4.1991 (<?php echo alter(10,4,1991); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> verlobt
+<strong>Kinder:</strong> 2
+
+Kleyerstr.  191
+16775 Sonnenberg
+Deutschland
+
+<strong>Telefonnummer:</strong> 07131 2597887
+<strong>E-Mail Adresse:</strong> <a href="mailto:yannik91@nadesico.tv">yannik91@nadesico.tv</a>
+
+<strong>Politische Einstellung:</strong> liberal
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> schwul bzw. lesbisch
+
+<strong>Figur:</strong> schlank
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Sozialwirt
+<strong>Einkommen:</strong> ca. 4000€/Monat
+
+<strong>Interessen:</strong> [tag]Gitarre spielen[/tag], [tag]Internet trollen[/tag], [tag]Entspannen[/tag]
+<strong>Musik:</strong> [tag]Opera[/tag], [tag]Space Rock[/tag], [tag]Space[/tag]
+<strong>Lieblingsfilme:</strong> Armageddon – Das jüngste Gericht, Morscholz]]></description>
+<category>verlobt</category>
+<category>schwul bzw. lesbisch</category>
+<category>Mann</category>
+<category>Nichtraucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Jerome Homberger]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 1.2.1962 (<?php echo alter(1,2,1962); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> single
+<strong>Kinder:</strong> 1
+
+Koelhoffstr.  129
+15745 Wildau
+Deutschland
+
+<strong>Telefonnummer:</strong> 07131 5315891
+<strong>E-Mail Adresse:</strong> <a href="mailto:@ilovejesus.com">@ilovejesus.com</a>
+
+<strong>Politische Einstellung:</strong> rechts
+<strong>Religion:</strong> Moslem
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> mollig
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> ja
+
+<strong>Beruf:</strong> Maskenbildner
+<strong>Einkommen:</strong> ca. 1800€/Monat
+
+<strong>Interessen:</strong> [tag]Filme sehen[/tag], [tag]Fahrzeugtuning[/tag], [tag]Stofftiere[/tag]
+<strong>Musik:</strong> [tag]Deep House[/tag], [tag]Electropop[/tag]
+<strong>Lieblingsfilme:</strong> Spielzeugland, Mission: Impossible]]></description>
+<category>single</category>
+<category>hetero</category>
+<category>Mann</category>
+<category>Nichtraucher</category>
+<category>Kein Alkohol</category>
+<category>Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Wolfgang Akman]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 12.6.1953 (<?php echo alter(12,6,1953); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> verheiratet
+<strong>Kinder:</strong> 3
+
+Dachsweg  50
+07387 Lausnitz bei
+Deutschland
+
+<strong>Telefonnummer:</strong> 07131 5217496
+<strong>E-Mail Adresse:</strong> <a href="mailto:wolfgang53@fresnomail.com">wolfgang53@fresnomail.com</a>
+
+<strong>Politische Einstellung:</strong> links
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> schwul bzw. lesbisch
+
+<strong>Figur:</strong> fett
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> ja
+
+<strong>Beruf:</strong> Fahrzeugpfleger
+<strong>Einkommen:</strong> ca. 6200€/Monat
+
+<strong>Interessen:</strong> [tag]Poker[/tag], [tag]Gitarre spielen[/tag], [tag]Malerei[/tag]
+<strong>Musik:</strong> [tag]Movie Soundtrack[/tag], [tag]Game Soundtrack[/tag], [tag]Industrial Metal[/tag]
+<strong>Lieblingsfilme:</strong> Charlie und die Schokoladenfabrik, Die Blechtrommel , Titanic]]></description>
+<category>verheiratet</category>
+<category>schwul bzw. lesbisch</category>
+<category>Mann</category>
+<category>Nichtraucher</category>
+<category>Kein Alkohol</category>
+<category>Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Marlene Siefert]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 5.4.1980 (<?php echo alter(5,4,1980); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> single
+<strong>Kinder:</strong> 2
+
+Hanssenstr. 54
+14641 Falkenrehde
+Deutschland
+
+<strong>Telefonnummer:</strong> 07131 8377070
+<strong>E-Mail Adresse:</strong> <a href="mailto:marlene-aus-falkenrehde@teleline.es">marlene-aus-falkenrehde@teleline.es</a>
+
+<strong>Politische Einstellung:</strong> grün
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> fett
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Objektbeschichter
+<strong>Einkommen:</strong> ca. 800€/Monat
+
+<strong>Interessen:</strong> [tag]Amateurastronomie[/tag], [tag]Science Fiction[/tag], [tag]Socken stricken[/tag]
+<strong>Musik:</strong> [tag]Indie[/tag], [tag]Opera[/tag]
+<strong>Lieblingsfilme:</strong> Malina , Transformers – Die Rache, Christiane F. – Wir Kinder vom Bahnhof Zoo]]></description>
+<category>single</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Raucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Valerie Eisenberg]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 5.8.1969 (<?php echo alter(5,8,1969); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> verheiratet
+<strong>Kinder:</strong> 4
+
+Elisabethenstr. 175
+09249 Taura
+Deutschland
+
+<strong>Telefonnummer:</strong> 07131 5189275
+<strong>E-Mail Adresse:</strong> <a href="mailto:valerie69@ignmail.com">valerie69@ignmail.com</a>
+
+<strong>Politische Einstellung:</strong> grün
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> fett
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Augenoptiker
+<strong>Einkommen:</strong> ca. 5000€/Monat
+
+<strong>Interessen:</strong> [tag]Sprache[/tag], [tag]Skart[/tag]
+<strong>Musik:</strong> [tag]Progressive Rock[/tag], [tag]Jazz[/tag]
+<strong>Lieblingsfilme:</strong> Napola – Elite für den Führer, Mission: Impossible II, X-Men: Der letzte Widerstand]]></description>
+<category>verheiratet</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Nichtraucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Rafael Hammann]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 19.1.1934 (<?php echo alter(19,1,1934); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> verlobt
+
+Schwabenspiegelstr. 93
+06542 Allstedt
+Deutschland
+
+<strong>Telefonnummer:</strong> 034652 6433861
+<strong>E-Mail Adresse:</strong> <a href="mailto:rafael.@okbank.com">rafael.@okbank.com</a>
+
+<strong>Politische Einstellung:</strong> konservativ
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> fett
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Schauspieler
+<strong>Einkommen:</strong> ca. 8100€/Monat
+
+<strong>Interessen:</strong> [tag]Kneipe[/tag], [tag]Fotografie[/tag], [tag]backen[/tag]
+<strong>Musik:</strong> [tag]Ska[/tag], [tag]Melodic Death[/tag], [tag]Pop[/tag]
+<strong>Lieblingsfilme:</strong> Der bewegte Mann, Der Herr der Ringe: Die zwei Türme]]></description>
+<category>verlobt</category>
+<category>hetero</category>
+<category>Mann</category>
+<category>Nichtraucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Axel Zechner]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 19.5.1980 (<?php echo alter(19,5,1980); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> vergeben
+<strong>Kinder:</strong> 3
+
+Vogelsangstr. 14
+07349 Lehesten
+Deutschland
+
+<strong>Telefonnummer:</strong> 034652 2461551
+<strong>E-Mail Adresse:</strong> <a href="mailto:axel80@farang.net">axel80@farang.net</a>
+
+<strong>Politische Einstellung:</strong> Kommunist
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> asexuell
+
+<strong>Figur:</strong> normal
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Chemielaborant
+<strong>Einkommen:</strong> ca. 4700€/Monat
+
+<strong>Interessen:</strong> [tag]Wohnwagen[/tag], [tag]Videos schneiden[/tag], [tag]Open Source[/tag]
+<strong>Musik:</strong> [tag]Disco[/tag], [tag]Folk Metal[/tag], [tag]Psychedelic Trance[/tag]
+<strong>Lieblingsfilme:</strong> Der Name der Rose, Matrix Reloaded]]></description>
+<category>vergeben</category>
+<category>asexuell</category>
+<category>Mann</category>
+<category>Nichtraucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Swenja Bierwagen]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 24.10.1966 (<?php echo alter(24,10,1966); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> verlobt
+
+Kohlenstr.  20
+16348 Ruhlsdorf
+Deutschland
+
+<strong>Telefonnummer:</strong> 034652 4183391
+<strong>E-Mail Adresse:</strong> <a href="mailto:@newmail.net">@newmail.net</a>
+
+<strong>Politische Einstellung:</strong> rechts
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> mollig
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Brautechniker
+<strong>Einkommen:</strong> ca. 5500€/Monat
+
+<strong>Interessen:</strong> [tag]Stofftiere[/tag], [tag]Zoo[/tag], [tag]Lockpicking[/tag]
+<strong>Musik:</strong> [tag]Power Metal[/tag], [tag]Electronic[/tag], [tag]Experimental[/tag]
+<strong>Lieblingsfilme:</strong> Die Rückkehr der Jedi-Ritter, Homo Faber, Harry Potter und der Feuerkelch]]></description>
+<category>verlobt</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Nichtraucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Emma Röser]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 16.11.1928 (<?php echo alter(16,11,1928); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Kinder:</strong> 3
+
+August-Hecht-Str. 187
+84416 Inning am Holz
+Deutschland
+
+<strong>Telefonnummer:</strong> 034652 5196234
+<strong>E-Mail Adresse:</strong> <a href="mailto:@jojonokimyounabouken.com">@jojonokimyounabouken.com</a>
+
+<strong>Politische Einstellung:</strong> konservativ
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> dürr
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> ja
+
+<strong>Beruf:</strong> Fotomodell
+<strong>Einkommen:</strong> ca. 3200€/Monat
+
+<strong>Interessen:</strong> [tag]Party[/tag], [tag]Kneipe[/tag]
+<strong>Musik:</strong> [tag]Vocal[/tag], [tag]Alternative[/tag]
+<strong>Lieblingsfilme:</strong> Auf der anderen Seite, Berlin is in Germany, Die Nichten der Frau Oberst]]></description>
+<category></category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Nichtraucher</category>
+<category>Kein Alkohol</category>
+<category>Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Elsbeth Scheer]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 21.4.1958 (<?php echo alter(21,4,1958); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> single
+<strong>Kinder:</strong> 2
+
+Luegplatz 198
+54597 Ormont
+Deutschland
+
+<strong>Telefonnummer:</strong> 034652 2746433
+<strong>E-Mail Adresse:</strong> <a href="mailto:@tankpolice.net">@tankpolice.net</a>
+
+<strong>Politische Einstellung:</strong> rechts
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> normal
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Bauzeichner
+<strong>Einkommen:</strong> ca. 3600€/Monat
+
+<strong>Interessen:</strong> [tag]Wolkenkratzer-Klettern[/tag], [tag]Soziale Netzwerke[/tag], [tag]Swinger Club[/tag]
+<strong>Musik:</strong> [tag]Grunge[/tag], [tag]Folk[/tag]
+<strong>Lieblingsfilme:</strong> Rosa Luxemburg, Men in Black]]></description>
+<category>single</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Nichtraucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Bastian Wehr]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 12.5.1961 (<?php echo alter(12,5,1961); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> verheiratet
+<strong>Kinder:</strong> 5
+
+Bergstr.  115
+39579 Grassau
+Deutschland
+
+<strong>Telefonnummer:</strong> 08641 1054432
+<strong>E-Mail Adresse:</strong> <a href="mailto:bastian-aus-grassau@cybergrrl.com">bastian-aus-grassau@cybergrrl.com</a>
+
+<strong>Politische Einstellung:</strong> grün
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> dürr
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Designer
+<strong>Einkommen:</strong> ca. 2200€/Monat
+
+<strong>Interessen:</strong> [tag]Briefmarken sammeln[/tag], [tag]Schach[/tag], [tag]Bar[/tag]
+<strong>Musik:</strong> [tag]Latin[/tag], [tag]Techno[/tag], [tag]Ambient[/tag]
+<strong>Lieblingsfilme:</strong> Nichts als die Wahrheit , Das Dschungelbuch]]></description>
+<category>verheiratet</category>
+<category>hetero</category>
+<category>Mann</category>
+<category>Nichtraucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Melvin Philippi]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 2.3.1951 (<?php echo alter(2,3,1951); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> single
+<strong>Kinder:</strong> 2
+
+Tegernauer Zeile  64
+39343 Bartensleben
+Deutschland
+
+<strong>Telefonnummer:</strong> 08641 8316509
+<strong>E-Mail Adresse:</strong> <a href="mailto:51@tekkamanblade.com">51@tekkamanblade.com</a>
+
+<strong>Politische Einstellung:</strong> grün
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> fett
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> ja
+
+<strong>Beruf:</strong> Schiffbauer
+<strong>Einkommen:</strong> ca. 4800€/Monat
+
+<strong>Interessen:</strong> [tag]backen[/tag], [tag]Entspannen[/tag]
+<strong>Musik:</strong> [tag]Soundtrack[/tag], [tag]Hardcore Punk[/tag]
+<strong>Lieblingsfilme:</strong> Harry Potter und der Stein der Weisen, Alles auf Zucker!]]></description>
+<category>single</category>
+<category>hetero</category>
+<category>Mann</category>
+<category>Raucher</category>
+<category>Alkohol</category>
+<category>Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Emelie Rotz]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 14.8.1995 (<?php echo alter(14,8,1995); ?>)
+<strong>Geschlecht:</strong> weiblich
+
+Blumenstr.  53
+74545 Michelfeld
+Deutschland
+
+<strong>Telefonnummer:</strong> 08641 3764203
+<strong>E-Mail Adresse:</strong> <a href="mailto:emelie95@indecentproposal.co.uk">emelie95@indecentproposal.co.uk</a>
+
+
+<strong>Religion:</strong> Christ
+
+<strong>Figur:</strong> fett
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Schüler
+
+<strong>Interessen:</strong> [tag]Puppen sammeln[/tag], [tag]Sauna[/tag]
+<strong>Musik:</strong> [tag]Club[/tag], [tag]Melodic Death[/tag], [tag]Space[/tag]
+<strong>Lieblingsfilme:</strong> Sommer vorm Balkon,  Der bewegte Mann]]></description>
+<category></category>
+<category></category>
+<category>Frau</category>
+<category>Nichtraucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Miriam Backe]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 12.5.1981 (<?php echo alter(12,5,1981); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> verlobt
+<strong>Kinder:</strong> 4
+
+Renettenstieg 15
+27243 Beckeln
+Deutschland
+
+<strong>Telefonnummer:</strong> 08641 2188881
+<strong>E-Mail Adresse:</strong> <a href="mailto:miriam.@jovem.te.pt">miriam.@jovem.te.pt</a>
+
+<strong>Politische Einstellung:</strong> liberal
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> fett
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Demograf
+<strong>Einkommen:</strong> ca. 1600€/Monat
+
+<strong>Interessen:</strong> [tag]Musik hören[/tag], [tag]Achterbahnen[/tag]
+<strong>Musik:</strong> [tag]Opera[/tag], [tag]Grunge[/tag], [tag]Progressive[/tag]
+<strong>Lieblingsfilme:</strong> Gladiator, Nachts im Museum]]></description>
+<category>verlobt</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Raucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Annica Goedeke]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 6.1.1950 (<?php echo alter(6,1,1950); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> verheiratet
+<strong>Kinder:</strong> 8
+
+Emsufer 137
+57076 Siegen
+Deutschland
+
+<strong>Telefonnummer:</strong> 0271 8303052
+<strong>E-Mail Adresse:</strong> <a href="mailto:annica.@yahoo.fr">annica.@yahoo.fr</a>
+
+<strong>Politische Einstellung:</strong> grün
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> dürr
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> ja
+
+<strong>Beruf:</strong> Chefportier
+<strong>Einkommen:</strong> ca. 6300€/Monat
+
+<strong>Interessen:</strong> [tag]Pferde[/tag], [tag]Wohnwagen[/tag], [tag]Judo[/tag]
+<strong>Musik:</strong> [tag]Game Soundtrack[/tag], [tag]British Rock[/tag]
+<strong>Lieblingsfilme:</strong> Die Stille nach dem Schuss, Sherlock Holmes, Avatar – Aufbruch nach Pandora]]></description>
+<category>verheiratet</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Raucher</category>
+<category>Alkohol</category>
+<category>Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Helge Kunz]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 14.6.1991 (<?php echo alter(14,6,1991); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> vergeben
+<strong>Kinder:</strong> 2
+
+Hindenburgstr.  56
+19089 Wessin
+Deutschland
+
+<strong>Telefonnummer:</strong> 0271 8396925
+<strong>E-Mail Adresse:</strong> <a href="mailto:helge91@spaceart.com">helge91@spaceart.com</a>
+
+<strong>Politische Einstellung:</strong> Kommunist
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> fett
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Fachkraft
+<strong>Einkommen:</strong> ca. 3600€/Monat
+
+<strong>Interessen:</strong> [tag]Judo[/tag], [tag]Mittelalterszene[/tag], [tag]Geotrekking[/tag]
+<strong>Musik:</strong> [tag]Post Grunge[/tag], [tag]Blues[/tag]
+<strong>Lieblingsfilme:</strong> Kung Fu Panda, Die Unglaublichen – The Incredibles]]></description>
+<category>vergeben</category>
+<category>hetero</category>
+<category>Mann</category>
+<category>Nichtraucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Silas Buchholz]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 25.10.1960 (<?php echo alter(25,10,1960); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> verheiratet
+
+Am Keilsberg  11
+16515 Malz
+Deutschland
+
+<strong>Telefonnummer:</strong> 0271 4058617
+<strong>E-Mail Adresse:</strong> <a href="mailto:60@marketing.lu">60@marketing.lu</a>
+
+<strong>Politische Einstellung:</strong> rechts
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> dürr
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Schlafwagenschaffner
+<strong>Einkommen:</strong> ca. 4100€/Monat
+
+<strong>Interessen:</strong> [tag]Open Source[/tag], [tag]Golf[/tag]
+<strong>Musik:</strong> [tag]New Age[/tag], [tag]Rap[/tag], [tag]Neoclassic[/tag]
+<strong>Lieblingsfilme:</strong> Die Sieger, Nirgendwo in Afrika]]></description>
+<category>verheiratet</category>
+<category>hetero</category>
+<category>Mann</category>
+<category>Nichtraucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Gerlinde Damm]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 25.6.1958 (<?php echo alter(25,6,1958); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> verlobt
+<strong>Kinder:</strong> 1
+
+Friedberger Str.  130
+49843 Getelo
+Deutschland
+
+<strong>Telefonnummer:</strong> 0271 5798013
+<strong>E-Mail Adresse:</strong> <a href="mailto:gerlinde58@postafree.com">gerlinde58@postafree.com</a>
+
+<strong>Politische Einstellung:</strong> liberal
+<strong>Religion:</strong> keine
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> schlank
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Weinkuefer
+<strong>Einkommen:</strong> ca. 3800€/Monat
+
+<strong>Interessen:</strong> [tag]Webdesign[/tag], [tag]Schach[/tag], [tag]Fernsehen[/tag]
+<strong>Musik:</strong> [tag]Trance[/tag], [tag]New Age[/tag]
+<strong>Lieblingsfilme:</strong> Hancock, Homo Faber]]></description>
+<category>verlobt</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Nichtraucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Marga Hofman]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 17.5.1924 (<?php echo alter(17,5,1924); ?>)
+<strong>Geschlecht:</strong> weiblich
+
+Wilhelm-Raabe-Str.  184
+14929 Treuenbrietzen
+Deutschland
+
+<strong>Telefonnummer:</strong> 033748 1082394
+<strong>E-Mail Adresse:</strong> <a href="mailto:marga24@kiwitown.com">marga24@kiwitown.com</a>
+
+<strong>Politische Einstellung:</strong> unpolitisch
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> schlank
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> ja
+
+<strong>Beruf:</strong> Grosshandelskauffrau
+<strong>Einkommen:</strong> ca. 7700€/Monat
+
+<strong>Interessen:</strong> [tag]Tanzen[/tag], [tag]Socken stricken[/tag], [tag]Fallschirmspringen[/tag]
+<strong>Musik:</strong> [tag]Ska[/tag], [tag]Electropop[/tag]
+<strong>Lieblingsfilme:</strong> Keinohrhasen, Schtonk!]]></description>
+<category></category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Raucher</category>
+<category>Kein Alkohol</category>
+<category>Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Margitta Tuna]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 20.7.1969 (<?php echo alter(20,7,1969); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> verheiratet
+<strong>Kinder:</strong> 5
+
+Ringeltaubenweg 72
+01824 Rathen
+Deutschland
+
+<strong>Telefonnummer:</strong> 033870 5461006
+<strong>E-Mail Adresse:</strong> <a href="mailto:margitta-aus-rathen@kaikanphrase.com">margitta-aus-rathen@kaikanphrase.com</a>
+
+<strong>Politische Einstellung:</strong> Kommunist
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> schwul bzw. lesbisch
+
+<strong>Figur:</strong> mollig
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Hörgeräteakustiker
+<strong>Einkommen:</strong> ca. 1900€/Monat
+
+<strong>Interessen:</strong> [tag]Tagebuch schreiben[/tag], [tag]Musik machen[/tag]
+<strong>Musik:</strong> [tag]Pop Rock[/tag], [tag]Metalcore[/tag]
+<strong>Lieblingsfilme:</strong> The Day After Tomorrow, Nichts bereuen, Ratatouille]]></description>
+<category>verheiratet</category>
+<category>schwul bzw. lesbisch</category>
+<category>Frau</category>
+<category>Nichtraucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Dora Fleig]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 17.8.1955 (<?php echo alter(17,8,1955); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> verheiratet
+<strong>Kinder:</strong> 6
+
+Bismarckstr.  59
+67308 Albisheim
+Deutschland
+
+<strong>Telefonnummer:</strong> 033870 8525483
+<strong>E-Mail Adresse:</strong> <a href="mailto:55@ananzi.co.za">55@ananzi.co.za</a>
+
+<strong>Politische Einstellung:</strong> links
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> fett
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Massschneider
+<strong>Einkommen:</strong> ca. 3600€/Monat
+
+<strong>Interessen:</strong> [tag]Camping[/tag], [tag]Stofftiere[/tag], [tag]Tanzen[/tag]
+<strong>Musik:</strong> [tag]Heavy Metal[/tag], [tag]Progressive[/tag], [tag]Hardcore[/tag]
+<strong>Lieblingsfilme:</strong> Keinohrhasen, Männer]]></description>
+<category>verheiratet</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Raucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Jochen Prieler]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 26.10.1979 (<?php echo alter(26,10,1979); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> single
+<strong>Kinder:</strong> 2
+
+Ottenbecker Damm  7
+17179 Finkenthal
+Deutschland
+
+<strong>Telefonnummer:</strong> 033870 5621962
+<strong>E-Mail Adresse:</strong> <a href="mailto:@iamyours.com">@iamyours.com</a>
+
+<strong>Politische Einstellung:</strong> konservativ
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> mollig
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Chefarzt
+<strong>Einkommen:</strong> ca. 100€/Monat
+
+<strong>Interessen:</strong> [tag]Puppen sammeln[/tag], [tag]Billard[/tag], [tag]Urban Exploration[/tag]
+<strong>Musik:</strong> [tag]Ambient[/tag], [tag]Gospel[/tag], [tag]Psychedelic[/tag]
+<strong>Lieblingsfilme:</strong> Das Wunder von Bern, Das Boot, Drachenzähmen leicht gemacht]]></description>
+<category>single</category>
+<category>hetero</category>
+<category>Mann</category>
+<category>Nichtraucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Gerda Huppertz]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 3.2.1989 (<?php echo alter(3,2,1989); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> verlobt
+<strong>Kinder:</strong> 1
+
+Lukasstr. 166
+74934 Reichartshausen
+Deutschland
+
+<strong>Telefonnummer:</strong> 033870 7325022
+<strong>E-Mail Adresse:</strong> <a href="mailto:gerda.@animeart.cc">gerda.@animeart.cc</a>
+
+<strong>Politische Einstellung:</strong> liberal
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> schlank
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Reservierungssachbearbeiter
+<strong>Einkommen:</strong> ca. 600€/Monat
+
+<strong>Interessen:</strong> [tag]Heimwerken[/tag], [tag]Modellautos[/tag], [tag]Handarbeiten[/tag]
+<strong>Musik:</strong> [tag]Britpop[/tag], [tag]Movie Soundtrack[/tag]
+<strong>Lieblingsfilme:</strong> Spiel mir das Lied vom Tod, Indiana Jones und der letzte Kreuzzug]]></description>
+<category>verlobt</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Raucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Dorit Steinebach]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 23.10.1971 (<?php echo alter(23,10,1971); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> vergeben
+<strong>Kinder:</strong> 4
+
+Buderusstr. 191
+21031 Hampuri
+Deutschland
+
+<strong>Telefonnummer:</strong> 033870 7439863
+<strong>E-Mail Adresse:</strong> <a href="mailto:dorit71@animeart.cc">dorit71@animeart.cc</a>
+
+<strong>Politische Einstellung:</strong> rechts
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> dürr
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Krankenschwester
+<strong>Einkommen:</strong> ca. 4200€/Monat
+
+<strong>Interessen:</strong> [tag]Fussball[/tag], [tag]Free-Climbing[/tag], [tag]Brieftauben züchten[/tag]
+<strong>Musik:</strong> [tag]Folk[/tag], [tag]Indie Pop[/tag], [tag]Arabic[/tag]
+<strong>Lieblingsfilme:</strong> WALL·E – Der Letzte räumt die Erde auf, James Bond 007: Casino Royale, Sonnenallee]]></description>
+<category>vergeben</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Raucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Ulrike Braun]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 26.2.1971 (<?php echo alter(26,2,1971); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> vergeben
+<strong>Kinder:</strong> 2
+
+Oertzeweg 23
+24402 Esgrus
+Deutschland
+
+<strong>Telefonnummer:</strong> 033870 1022914
+<strong>E-Mail Adresse:</strong> <a href="mailto:ulrike.@lurvegod.co.uk">ulrike.@lurvegod.co.uk</a>
+
+<strong>Politische Einstellung:</strong> rechts
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> fett
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Systemelektroniker
+<strong>Einkommen:</strong> ca. 2500€/Monat
+
+<strong>Interessen:</strong> [tag]Gedichte schreiben[/tag], [tag]Sprache[/tag]
+<strong>Musik:</strong> [tag]Industrial Metal[/tag], [tag]Indie[/tag]
+<strong>Lieblingsfilme:</strong> Sonnenallee, Jerichow , Spider-Man 3]]></description>
+<category>vergeben</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Nichtraucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Ruben Schaefer]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 24.6.1942 (<?php echo alter(24,6,1942); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> verheiratet
+<strong>Kinder:</strong> 4
+
+Berberitzenweg  122
+67744 Homberg
+Deutschland
+
+<strong>Telefonnummer:</strong> 06633 3518845
+<strong>E-Mail Adresse:</strong> <a href="mailto:ruben.@jambalover.co.uk">ruben.@jambalover.co.uk</a>
+
+<strong>Politische Einstellung:</strong> konservativ
+<strong>Religion:</strong> Jude
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> dürr
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Karosseriebauer
+<strong>Einkommen:</strong> ca. 5900€/Monat
+
+<strong>Interessen:</strong> [tag]Amateurastronomie[/tag], [tag]Fernsehen[/tag], [tag]Wohnwagen[/tag]
+<strong>Musik:</strong> [tag]House[/tag], [tag]Neoclassic[/tag], [tag]Ska[/tag]
+<strong>Lieblingsfilme:</strong> Die Kinder sind tot, Fata Morgana]]></description>
+<category>verheiratet</category>
+<category>hetero</category>
+<category>Mann</category>
+<category>Raucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Kathleen Harth]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 13.10.1975 (<?php echo alter(13,10,1975); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> verheiratet
+<strong>Kinder:</strong> 1
+
+Laubplatz 200
+09474 Crottendorf
+Deutschland
+
+<strong>Telefonnummer:</strong> 037344 4431011
+<strong>E-Mail Adresse:</strong> <a href="mailto:kathleen.@moose-mail.com">kathleen.@moose-mail.com</a>
+
+<strong>Politische Einstellung:</strong> grün
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> normal
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> ja
+
+<strong>Beruf:</strong> Fachkraft
+<strong>Einkommen:</strong> ca. 2600€/Monat
+
+<strong>Interessen:</strong> [tag]Fotografie[/tag], [tag]Entspannen[/tag], [tag]Sammeln[/tag]
+<strong>Musik:</strong> [tag]Arabic[/tag], [tag]Ballade[/tag], [tag]Ambient[/tag]
+<strong>Lieblingsfilme:</strong> Spiel mir das Lied vom Tod, Die Blechtrommel , Krieg der Welten]]></description>
+<category>verheiratet</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Nichtraucher</category>
+<category>Kein Alkohol</category>
+<category>Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Hauke Manz]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 24.8.1990 (<?php echo alter(24,8,1990); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> single
+<strong>Kinder:</strong> 1
+
+Brookweg  143
+23858 Heidekamp
+Deutschland
+
+<strong>Telefonnummer:</strong> 037344 3053748
+<strong>E-Mail Adresse:</strong> <a href="mailto:hauke90@yemenmail.com">hauke90@yemenmail.com</a>
+
+<strong>Politische Einstellung:</strong> konservativ
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> bisexuell
+
+<strong>Figur:</strong> schlank
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Bäcker
+<strong>Einkommen:</strong> ca. 4700€/Monat
+
+<strong>Interessen:</strong> [tag]Urban Exploration[/tag], [tag]Stofftiere[/tag]
+<strong>Musik:</strong> [tag]Akustik[/tag], [tag]Gothic[/tag], [tag]Heavy Metal[/tag]
+<strong>Lieblingsfilme:</strong> Sehnsucht, Der Krieger und die Kaiserin]]></description>
+<category>single</category>
+<category>bisexuell</category>
+<category>Mann</category>
+<category>Nichtraucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Swetlana Herold]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 24.10.1967 (<?php echo alter(24,10,1967); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> single
+<strong>Kinder:</strong> 1
+
+Dammstr.  166
+25724 Schmedeswurth
+Deutschland
+
+<strong>Telefonnummer:</strong> 037344 9533291
+<strong>E-Mail Adresse:</strong> <a href="mailto:swetlana67@Desertmail.com">swetlana67@Desertmail.com</a>
+
+<strong>Politische Einstellung:</strong> rechts
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> mollig
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Hausmeister
+<strong>Einkommen:</strong> ca. 9600€/Monat
+
+<strong>Interessen:</strong> [tag]Filme sehen[/tag], [tag]Gastronomie[/tag], [tag]segeln[/tag]
+<strong>Musik:</strong> [tag]Noise[/tag], [tag]Gospel[/tag]
+<strong>Lieblingsfilme:</strong> Findet Nemo, Ocean’s Eleven, (T)Raumschiff Surprise]]></description>
+<category>single</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Nichtraucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Curt Harnischfeger]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 25.5.1961 (<?php echo alter(25,5,1961); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> verheiratet
+<strong>Kinder:</strong> 8
+
+Waldstr.  159
+04680 Colditz
+Deutschland
+
+<strong>Telefonnummer:</strong> 034381 4964622
+<strong>E-Mail Adresse:</strong> <a href="mailto:@usa.net">@usa.net</a>
+
+<strong>Politische Einstellung:</strong> Kommunist
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> normal
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Ausbaufachwerker
+<strong>Einkommen:</strong> ca. 2800€/Monat
+
+<strong>Interessen:</strong> [tag]Sammeln[/tag], [tag]Heimwerken[/tag], [tag]singen[/tag]
+<strong>Musik:</strong> [tag]Chanson[/tag], [tag]Post-Hardcore[/tag]
+<strong>Lieblingsfilme:</strong> Christiane F. – Wir Kinder vom Bahnhof Zoo, Auf der anderen Seite]]></description>
+<category>verheiratet</category>
+<category>hetero</category>
+<category>Mann</category>
+<category>Nichtraucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Vivien Szymanski]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 6.7.1974 (<?php echo alter(6,7,1974); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> single
+<strong>Kinder:</strong> 1
+
+Zollersteighof  53
+17390 Ziethen
+Deutschland
+
+<strong>Telefonnummer:</strong> 034381 1033193
+<strong>E-Mail Adresse:</strong> <a href="mailto:vivien.@starting-point.com">vivien.@starting-point.com</a>
+
+<strong>Politische Einstellung:</strong> unpolitisch
+<strong>Religion:</strong> Jude
+<strong>Sexuelle Orientierung:</strong> asexuell
+
+<strong>Figur:</strong> mollig
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> ja
+
+<strong>Beruf:</strong> Vergolder
+<strong>Einkommen:</strong> ca. 3400€/Monat
+
+<strong>Interessen:</strong> [tag]Swinger Club[/tag], [tag]Computer[/tag]
+<strong>Musik:</strong> [tag]Space[/tag], [tag]Drum and Bass[/tag]
+<strong>Lieblingsfilme:</strong> Die Nichten der Frau Oberst, Männer]]></description>
+<category>single</category>
+<category>asexuell</category>
+<category>Frau</category>
+<category>Raucher</category>
+<category>Alkohol</category>
+<category>Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Timo Scholta]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 23.3.1987 (<?php echo alter(23,3,1987); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> verlobt
+<strong>Kinder:</strong> 1
+
+Geisenstr.  17
+37345 Zwinge
+Deutschland
+
+<strong>Telefonnummer:</strong> 034381 7571017
+<strong>E-Mail Adresse:</strong> <a href="mailto:timo.@inlabour.com">timo.@inlabour.com</a>
+
+<strong>Politische Einstellung:</strong> konservativ
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> dürr
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Imker
+<strong>Einkommen:</strong> ca. 600€/Monat
+
+<strong>Interessen:</strong> [tag]Science Fiction[/tag], [tag]Gitarre spielen[/tag]
+<strong>Musik:</strong> [tag]Trip Hop[/tag], [tag]Pop[/tag], [tag]Pop Rock[/tag]
+<strong>Lieblingsfilme:</strong> Ratatouille, Der Soldat James Ryan]]></description>
+<category>verlobt</category>
+<category>hetero</category>
+<category>Mann</category>
+<category>Nichtraucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Dieter Strohmaier]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 20.9.1920 (<?php echo alter(20,9,1920); ?>)
+<strong>Geschlecht:</strong> männlich
+
+Ringstr.  67
+23824 Damsdorf
+Deutschland
+
+<strong>Telefonnummer:</strong> 034381 9525011
+<strong>E-Mail Adresse:</strong> <a href="mailto:dieter20@brainpowerd.net">dieter20@brainpowerd.net</a>
+
+<strong>Politische Einstellung:</strong> konservativ
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> bisexuell
+
+<strong>Figur:</strong> dürr
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> ja
+
+<strong>Beruf:</strong> Edv-sachbearbeiter
+<strong>Einkommen:</strong> ca. 1200€/Monat
+
+<strong>Interessen:</strong> [tag]Raumfahrt[/tag], [tag]Fotografie[/tag], [tag]Open Source[/tag]
+<strong>Musik:</strong> [tag]Rock country[/tag], [tag]Disco[/tag]
+<strong>Lieblingsfilme:</strong> The Da Vinci Code – Sakrileg, Das Experiment, Stammheim]]></description>
+<category></category>
+<category>bisexuell</category>
+<category>Mann</category>
+<category>Raucher</category>
+<category>Alkohol</category>
+<category>Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Heiko Kreutzer]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 4.1.1975 (<?php echo alter(4,1,1975); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> verheiratet
+<strong>Kinder:</strong> 3
+
+Zum Neuen Kreuz 92
+55592 Raumbach
+Deutschland
+
+<strong>Telefonnummer:</strong> 034381 5136333
+<strong>E-Mail Adresse:</strong> <a href="mailto:heiko.@hoopsmail.com">heiko.@hoopsmail.com</a>
+
+<strong>Politische Einstellung:</strong> liberal
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> dürr
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> ja
+
+<strong>Beruf:</strong> Zupfinstrumentenmacher
+<strong>Einkommen:</strong> ca. 400€/Monat
+
+<strong>Interessen:</strong> [tag]Videos machen[/tag], [tag]Disco[/tag], [tag]Modellautos[/tag]
+<strong>Musik:</strong> [tag]Experimental[/tag], [tag]Indie Pop[/tag], [tag]Ambient[/tag]
+<strong>Lieblingsfilme:</strong> Independence Day, Fitzcarraldo, Mein liebster Feind]]></description>
+<category>verheiratet</category>
+<category>hetero</category>
+<category>Mann</category>
+<category>Nichtraucher</category>
+<category>Alkohol</category>
+<category>Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Franziska Haefner]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 25.11.1988 (<?php echo alter(25,11,1988); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> single
+<strong>Kinder:</strong> 1
+
+Aprather Str. 10
+72660 Beuren
+Deutschland
+
+<strong>Telefonnummer:</strong> 06586 7505377
+<strong>E-Mail Adresse:</strong> <a href="mailto:88@postmark.net">88@postmark.net</a>
+
+<strong>Politische Einstellung:</strong> unpolitisch
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> fett
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> ja
+
+<strong>Beruf:</strong> Sprengmeister
+<strong>Einkommen:</strong> ca. 4900€/Monat
+
+<strong>Interessen:</strong> [tag]Kartenspiele[/tag], [tag]Sammeln[/tag], [tag]Sonnenstudio[/tag]
+<strong>Musik:</strong> [tag]Indie Rock[/tag], [tag]Postrock[/tag], [tag]Progressive[/tag]
+<strong>Lieblingsfilme:</strong> Heimspiel, The Da Vinci Code – Sakrileg]]></description>
+<category>single</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Nichtraucher</category>
+<category>Kein Alkohol</category>
+<category>Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Benedikt Wilms]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 1.9.1937 (<?php echo alter(1,9,1937); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> vergeben
+<strong>Kinder:</strong> 3
+
+Am Stadtwald  87
+03205 Werchow
+Deutschland
+
+<strong>Telefonnummer:</strong> 06586 6426193
+<strong>E-Mail Adresse:</strong> <a href="mailto:benedikt.@operamail.com">benedikt.@operamail.com</a>
+
+<strong>Politische Einstellung:</strong> konservativ
+<strong>Religion:</strong> Hinduist
+<strong>Sexuelle Orientierung:</strong> bisexuell
+
+<strong>Figur:</strong> dürr
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Damenmassschneider
+<strong>Einkommen:</strong> ca. 7000€/Monat
+
+<strong>Interessen:</strong> [tag]Surfen[/tag], [tag]Kino[/tag]
+<strong>Musik:</strong> [tag]Hard Rock[/tag], [tag]House[/tag], [tag]Dance[/tag]
+<strong>Lieblingsfilme:</strong> Mission: Impossible II, Nichts bereuen]]></description>
+<category>vergeben</category>
+<category>bisexuell</category>
+<category>Mann</category>
+<category>Raucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Lorena Schüssler]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 8.1.1986 (<?php echo alter(8,1,1986); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> verlobt
+<strong>Kinder:</strong> 2
+
+Halterner Str.  101
+18586 Sellin
+Deutschland
+
+<strong>Telefonnummer:</strong> 038303 6396147
+<strong>E-Mail Adresse:</strong> <a href="mailto:lorena.@iloverebecca.co.uk">lorena.@iloverebecca.co.uk</a>
+
+<strong>Politische Einstellung:</strong> grün
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> dürr
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> ja
+
+<strong>Beruf:</strong> Umwelttechniker
+<strong>Einkommen:</strong> ca. 3100€/Monat
+
+<strong>Interessen:</strong> [tag]gammeln[/tag], [tag]Webdesign[/tag]
+<strong>Musik:</strong> [tag]Rock n Roll[/tag], [tag]Progressive[/tag], [tag]Ska[/tag]
+<strong>Lieblingsfilme:</strong> WALL·E – Der Letzte räumt die Erde auf, Bella Martha, Frei nach Plan]]></description>
+<category>verlobt</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Nichtraucher</category>
+<category>Alkohol</category>
+<category>Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Cem Brockmann]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 21.9.1929 (<?php echo alter(21,9,1929); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> vergeben
+<strong>Kinder:</strong> 2
+
+Bobenheimer Str.  192
+55597 Gumbsheim
+Deutschland
+
+<strong>Telefonnummer:</strong> 038303 2929636
+<strong>E-Mail Adresse:</strong> <a href="mailto:cem-aus-gumbsheim@yaminomatsuei.com">cem-aus-gumbsheim@yaminomatsuei.com</a>
+
+<strong>Politische Einstellung:</strong> liberal
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> schlank
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> ja
+
+<strong>Beruf:</strong> Förster
+<strong>Einkommen:</strong> ca. 4500€/Monat
+
+<strong>Interessen:</strong> [tag]saufen[/tag], [tag]Swinger Club[/tag]
+<strong>Musik:</strong> [tag]Funk[/tag], [tag]Pop Rock[/tag]
+<strong>Lieblingsfilme:</strong> Der freie Wille, Heimspiel, Harry Potter und der Stein der Weisen]]></description>
+<category>vergeben</category>
+<category>hetero</category>
+<category>Mann</category>
+<category>Nichtraucher</category>
+<category>Alkohol</category>
+<category>Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Simone Mill]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 6.5.1952 (<?php echo alter(6,5,1952); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> single
+<strong>Kinder:</strong> 4
+
+Karl-Straube-Str. 75
+56294 Wierschem
+Deutschland
+
+<strong>Telefonnummer:</strong> 038303 9601939
+<strong>E-Mail Adresse:</strong> <a href="mailto:simone-aus-wierschem@quikmail.com">simone-aus-wierschem@quikmail.com</a>
+
+<strong>Politische Einstellung:</strong> unpolitisch
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> mollig
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Böttcher
+<strong>Einkommen:</strong> ca. 700€/Monat
+
+<strong>Interessen:</strong> [tag]Free-Climbing[/tag], [tag]Party[/tag], [tag]Rätsel[/tag]
+<strong>Musik:</strong> [tag]Power Metal[/tag], [tag]Dance[/tag]
+<strong>Lieblingsfilme:</strong> Aladdin, Justiz, Aladdin]]></description>
+<category>single</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Nichtraucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Mona Ohl]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 3.4.1969 (<?php echo alter(3,4,1969); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> verheiratet
+<strong>Kinder:</strong> 3
+
+Hoffmannstr.  86
+54426 Malborn
+Deutschland
+
+<strong>Telefonnummer:</strong> 038303 8646075
+<strong>E-Mail Adresse:</strong> <a href="mailto:mona-aus-malborn@lodoss.org">mona-aus-malborn@lodoss.org</a>
+
+<strong>Politische Einstellung:</strong> liberal
+<strong>Religion:</strong> Jude
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> mollig
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Orgelbauer
+<strong>Einkommen:</strong> ca. 2900€/Monat
+
+<strong>Interessen:</strong> [tag]Internet[/tag], [tag]Poker[/tag], [tag]Literatur[/tag]
+<strong>Musik:</strong> [tag]Emo[/tag], [tag]Chillout[/tag], [tag]Power Metal[/tag]
+<strong>Lieblingsfilme:</strong> The Sixth Sense, Wolke Neun, The Da Vinci Code – Sakrileg]]></description>
+<category>verheiratet</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Raucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Dominique Köstler]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 22.8.1984 (<?php echo alter(22,8,1984); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> vergeben
+<strong>Kinder:</strong> 3
+
+Am Spring 135
+16818 Temnitzquell
+Deutschland
+
+<strong>Telefonnummer:</strong> 038303 4728685
+<strong>E-Mail Adresse:</strong> <a href="mailto:@japoness.com">@japoness.com</a>
+
+<strong>Politische Einstellung:</strong> unpolitisch
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> dürr
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Schiffssteward
+<strong>Einkommen:</strong> ca. 3300€/Monat
+
+<strong>Interessen:</strong> [tag]Gastronomie[/tag], [tag]Science Fiction[/tag], [tag]Computer[/tag]
+<strong>Musik:</strong> [tag]Power Metal[/tag], [tag]Black Metal[/tag]
+<strong>Lieblingsfilme:</strong> Dirty Dancing, Die Chroniken von Narnia: Der König von Narnia, E. T. – Der Außerirdische]]></description>
+<category>vergeben</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Nichtraucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Caren Papst]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 8.8.1933 (<?php echo alter(8,8,1933); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> verheiratet
+<strong>Kinder:</strong> 8
+
+Baumschulenweg  186
+18239 Reinshagen
+Deutschland
+
+<strong>Telefonnummer:</strong> 038303 7270934
+<strong>E-Mail Adresse:</strong> <a href="mailto:33@netbounce.com">33@netbounce.com</a>
+
+<strong>Politische Einstellung:</strong> konservativ
+<strong>Religion:</strong> keine
+<strong>Sexuelle Orientierung:</strong> asexuell
+
+<strong>Figur:</strong> normal
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> ja
+
+<strong>Beruf:</strong> Bodenleger
+<strong>Einkommen:</strong> ca. 1700€/Monat
+
+<strong>Interessen:</strong> [tag]Sauna[/tag], [tag]saufen[/tag]
+<strong>Musik:</strong> [tag]Groove Metal[/tag], [tag]Opera[/tag]
+<strong>Lieblingsfilme:</strong> James Bond 007: Ein Quantum Trost, Die Welle , Justiz]]></description>
+<category>verheiratet</category>
+<category>asexuell</category>
+<category>Frau</category>
+<category>Nichtraucher</category>
+<category>Kein Alkohol</category>
+<category>Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Andrey Grund]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 1.8.1965 (<?php echo alter(1,8,1965); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> single
+<strong>Kinder:</strong> 2
+
+Steinstr. 146
+36433 Bad Salzungen
+Deutschland
+
+<strong>Telefonnummer:</strong> 03695 3204004
+<strong>E-Mail Adresse:</strong> <a href="mailto:65@the-professional.com">65@the-professional.com</a>
+
+<strong>Politische Einstellung:</strong> links
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> asexuell
+
+<strong>Figur:</strong> normal
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Masseur
+<strong>Einkommen:</strong> ca. 4900€/Monat
+
+<strong>Interessen:</strong> [tag]Internet[/tag], [tag]Kneipe[/tag], [tag]schwimmen[/tag]
+<strong>Musik:</strong> [tag]Space Rock[/tag], [tag]Post Grunge[/tag]
+<strong>Lieblingsfilme:</strong> Armageddon – Das jüngste Gericht, Die Geschichte vom weinenden Kamel]]></description>
+<category>single</category>
+<category>asexuell</category>
+<category>Mann</category>
+<category>Raucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Else Bauer]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 17.1.1994 (<?php echo alter(17,1,1994); ?>)
+<strong>Geschlecht:</strong> weiblich
+
+Eberhardstr.  186
+17309 Brietzig
+Deutschland
+
+<strong>Telefonnummer:</strong> 03695 6295095
+<strong>E-Mail Adresse:</strong> <a href="mailto:else94@ayashinoceres.cc">else94@ayashinoceres.cc</a>
+
+
+<strong>Religion:</strong> Christ
+
+<strong>Figur:</strong> schlank
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Schüler
+
+<strong>Interessen:</strong> [tag]Disco[/tag], [tag]Tennis[/tag], [tag]Feuerschlucken[/tag]
+<strong>Musik:</strong> [tag]Chanson[/tag], [tag]Movie Soundtrack[/tag]
+<strong>Lieblingsfilme:</strong> Die Stille nach dem Schuss, Toy Story 2, Halbe Treppe]]></description>
+<category></category>
+<category></category>
+<category>Frau</category>
+<category>Raucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Gitta Stemmler]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 13.1.1998 (<?php echo alter(13,1,1998); ?>)
+<strong>Geschlecht:</strong> weiblich
+
+In der Acht 167
+29493 Schnackenburg
+Deutschland
+
+<strong>Telefonnummer:</strong> 05840 4491964
+<strong>E-Mail Adresse:</strong> <a href="mailto:gitta.@ilovescunthorpe.com">gitta.@ilovescunthorpe.com</a>
+
+
+<strong>Religion:</strong> Christ
+
+<strong>Figur:</strong> mollig
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Schüler
+
+<strong>Interessen:</strong> [tag]Zauberkunst[/tag], [tag]Modellbau[/tag], [tag]malen[/tag]
+<strong>Musik:</strong> [tag]Experimental[/tag], [tag]Indie Rock[/tag]
+<strong>Lieblingsfilme:</strong> James Bond 007: Ein Quantum Trost, Oswalt Kolle: Das Wunder der Liebe, Die Simpsons – Der Film]]></description>
+<category></category>
+<category></category>
+<category>Frau</category>
+<category>Nichtraucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Dora Valentin]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 3.5.1974 (<?php echo alter(3,5,1974); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> vergeben
+<strong>Kinder:</strong> 2
+
+Sievertstr. 9
+99439 Hottelstedt
+Deutschland
+
+<strong>Telefonnummer:</strong> 05840 3497261
+<strong>E-Mail Adresse:</strong> <a href="mailto:@gmx.de">@gmx.de</a>
+
+<strong>Politische Einstellung:</strong> Kommunist
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> mollig
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Akrobat
+<strong>Einkommen:</strong> ca. 2200€/Monat
+
+<strong>Interessen:</strong> [tag]Selbstverteidigung[/tag], [tag]Puppen sammeln[/tag], [tag]Schwertkampf[/tag]
+<strong>Musik:</strong> [tag]Hiphop[/tag], [tag]Metalcore[/tag], [tag]Game Soundtrack[/tag]
+<strong>Lieblingsfilme:</strong> Harry Potter und der Feuerkelch, Berlin is in Germany]]></description>
+<category>vergeben</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Nichtraucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Soeren Weigel]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 26.9.1935 (<?php echo alter(26,9,1935); ?>)
+<strong>Geschlecht:</strong> männlich
+<strong>Beziehungsstatus:</strong> verheiratet
+<strong>Kinder:</strong> 1
+
+Sperberweg  179
+54597 Ormont
+Deutschland
+
+<strong>Telefonnummer:</strong> 05840 5711543
+<strong>E-Mail Adresse:</strong> <a href="mailto:soeren-aus-ormont@canada.com">soeren-aus-ormont@canada.com</a>
+
+<strong>Politische Einstellung:</strong> Kommunist
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> normal
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Putzfrau
+<strong>Einkommen:</strong> ca. 7100€/Monat
+
+<strong>Interessen:</strong> [tag]Poker[/tag], [tag]saufen[/tag]
+<strong>Musik:</strong> [tag]Death Metal[/tag], [tag]Black Metal[/tag]
+<strong>Lieblingsfilme:</strong> Harry Potter und der Halbblutprinz, Yella, Charlie und die Schokoladenfabrik]]></description>
+<category>verheiratet</category>
+<category>hetero</category>
+<category>Mann</category>
+<category>Raucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Irene Petrat]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 17.4.1957 (<?php echo alter(17,4,1957); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> verheiratet
+<strong>Kinder:</strong> 5
+
+Erfurtstr.  74
+25355 Lutzhorn
+Deutschland
+
+<strong>Telefonnummer:</strong> 05840 3877323
+<strong>E-Mail Adresse:</strong> <a href="mailto:irene-aus-lutzhorn@altavista.de">irene-aus-lutzhorn@altavista.de</a>
+
+<strong>Politische Einstellung:</strong> grün
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> normal
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Zimmermädchen
+<strong>Einkommen:</strong> ca. 2700€/Monat
+
+<strong>Interessen:</strong> [tag]Rätsel[/tag], [tag]Filme sehen[/tag]
+<strong>Musik:</strong> [tag]Funk[/tag], [tag]Folk[/tag], [tag]Post Grunge[/tag]
+<strong>Lieblingsfilme:</strong> Vom Winde verweht, Dirty Dancing]]></description>
+<category>verheiratet</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Nichtraucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Fatma Conradi]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 7.10.1923 (<?php echo alter(7,10,1923); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Kinder:</strong> 3
+
+Papengasse  69
+10823 Berlin
+Deutschland
+
+<strong>Telefonnummer:</strong> 03342 3697534
+<strong>E-Mail Adresse:</strong> <a href="mailto:fatma-aus-berlin@mailc.net">fatma-aus-berlin@mailc.net</a>
+
+<strong>Politische Einstellung:</strong> unpolitisch
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> bisexuell
+
+<strong>Figur:</strong> schlank
+<strong>Raucher:</strong> ja
+<strong>Alkohol:</strong> ja
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Stahlbetonbauer
+<strong>Einkommen:</strong> ca. 2200€/Monat
+
+<strong>Interessen:</strong> [tag]Sammeln[/tag], [tag]Modellautos[/tag]
+<strong>Musik:</strong> [tag]Industrial Metal[/tag], [tag]New Age[/tag]
+<strong>Lieblingsfilme:</strong> Illuminati, Harry Potter und der Gefangene von Askaban]]></description>
+<category></category>
+<category>bisexuell</category>
+<category>Frau</category>
+<category>Raucher</category>
+<category>Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+<item>
+<title><![CDATA[Jaqueline Wildner]]></title>
+<description><![CDATA[<strong>Geburtsdatum:</strong> 9.5.1947 (<?php echo alter(9,5,1947); ?>)
+<strong>Geschlecht:</strong> weiblich
+<strong>Beziehungsstatus:</strong> verlobt
+<strong>Kinder:</strong> 1
+
+In der Wann 44
+66887 Niederalben
+Deutschland
+
+<strong>Telefonnummer:</strong> 03342 3279484
+<strong>E-Mail Adresse:</strong> <a href="mailto:jaqueline47@mailbomb.com">jaqueline47@mailbomb.com</a>
+
+<strong>Politische Einstellung:</strong> unpolitisch
+<strong>Religion:</strong> Christ
+<strong>Sexuelle Orientierung:</strong> hetero
+
+<strong>Figur:</strong> schlank
+<strong>Raucher:</strong> nein
+<strong>Alkohol:</strong> nein
+<strong>Andere Drogen:</strong> nein
+
+<strong>Beruf:</strong> Reiseleiter
+<strong>Einkommen:</strong> ca. 7300€/Monat
+
+<strong>Interessen:</strong> [tag]Tennis[/tag], [tag]Pferde[/tag]
+<strong>Musik:</strong> [tag]House[/tag], [tag]Black Metal[/tag], [tag]Indie Pop[/tag]
+<strong>Lieblingsfilme:</strong> Rhythm Is It!, Die fetten Jahre sind vorbei]]></description>
+<category>verlobt</category>
+<category>hetero</category>
+<category>Frau</category>
+<category>Nichtraucher</category>
+<category>Kein Alkohol</category>
+<category>Keine Drogen</category>
+<pubDate>Mo, 19 Jul 2010 04:56:04 +0200</pubDate>
+</item>
+</channel>
+</rss>
