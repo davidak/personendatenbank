@@ -1,4 +1,4 @@
-davidak.de/personen/ {
+davidak.de/personen {
   root /var/www/personen/web
   gzip
 }
